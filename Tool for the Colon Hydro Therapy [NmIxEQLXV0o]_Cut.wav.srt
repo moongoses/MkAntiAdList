@@ -150,35 +150,5 @@ Afterwards, she can go to the toilet and purge herself as normal.
 00:05:00,160 --> 00:05:02,560
 The whole treatment is now complete.
 
-39
-00:05:05,280 --> 00:05:09,080
-Immediately after the treatment, we disinfect the device as follows.
 
-40
-00:05:09,640 --> 00:05:11,400
-We replug the rinse coupling again.
-
-41
-00:05:20,200 --> 00:05:21,480
-Open the rinse tap.
-
-42
-00:05:28,964 --> 00:05:30,864
-Open the disinfection lever.
-
-43
-00:05:38,252 --> 00:05:42,832
-Close the stop lever until the side tube is completely filled.
-
-44
-00:05:48,492 --> 00:05:53,472
-Close the disinfection lever and allow a disinfection to run for three minutes.
-
-45
-00:06:08,096 --> 00:06:16,476
-The residence time is now over. I open the stop lever, let clear water run through the device for a moment before finally closing the rinse tap.
-
-46
-00:06:28,684 --> 00:06:29,164
-Now the description.
 
