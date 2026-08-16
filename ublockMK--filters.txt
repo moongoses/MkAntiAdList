@@ -16,6 +16,8 @@ maktel.mk##.sidebar-main
 ||mastilo.mk
 ||rdtk.io^
 
+##.itf-market-widget
+
 
 ! Jan 8, 2026 https://skopje1.mk
 skopje1.mk##.gap-4.flex-col.flex.max-lg\:hidden.col-span-2
