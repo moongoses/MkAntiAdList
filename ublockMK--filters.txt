@@ -1,4 +1,11 @@
+! fb ovoono
+||external.fskp3-1.fna.fbcdn.net/
+||external.fskp1-2.fna.fbcdn.net/
 
+
+||video.fskp3-1.fna.fbcdn.net/v/
+||video.fskp1-2.fna.fbcdn.net/v/
+||media3.giphy.com 
 
 
 !moi
@@ -10,7 +17,7 @@ maktel.mk##.sidebar-main
 ! ||rdtk.io^
 
 
-##.itf-market-widget
+
 
 
 ! Jan 8, 2026 https://skopje1.mk
