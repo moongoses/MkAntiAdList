@@ -16,7 +16,9 @@ maktel.mk##.sidebar-main
 ||mastilo.mk
 ! ||rdtk.io^
 
-! ##.itf-market-widget
+##.itf-market-widget
+##.itf-header-ad
+##.itmk-xf-footer-forum > .itmk-xf-footer-inner
 
 
 
