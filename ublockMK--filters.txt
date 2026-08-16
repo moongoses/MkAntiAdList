@@ -1,5 +1,3 @@
-! ##.itf-market-widget
-
 
 ! fb ovoono
 ||external.fskp3-1.fna.fbcdn.net/
