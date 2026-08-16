@@ -16,6 +16,8 @@ maktel.mk##.sidebar-main
 ||mastilo.mk
 ||rdtk.io^
 
+
+!it.forum proizvodi, goren baner, futeri so statistika i meni
 ##.itf-market-widget
 ##.itf-header-ad
 ##.itmk-xf-footer-forum > .itmk-xf-footer-inner
