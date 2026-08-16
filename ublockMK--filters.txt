@@ -19,6 +19,7 @@ maktel.mk##.sidebar-main
 ##.itf-market-widget
 ##.itf-header-ad
 ##.itmk-xf-footer-forum > .itmk-xf-footer-inner
+##.itmk-xf-footer-main > .itmk-xf-footer-inner
 
 
 
