@@ -14,7 +14,7 @@ maktel.mk##.sidebar-main
 ||adsdms.mk
 ||tas-mk.toboads.com
 ||mastilo.mk
-! ||rdtk.io^
+||rdtk.io^
 
 ##.itf-market-widget
 ##.itf-header-ad
@@ -26,7 +26,7 @@ maktel.mk##.sidebar-main
 ! Jan 8, 2026 https://skopje1.mk
 skopje1.mk##.gap-4.flex-col.flex.max-lg\:hidden.col-span-2
 
-! ||ads.com.mk
+||ads.com.mk
 
 
 ! 2021-11-07 https://www.vecer.press
