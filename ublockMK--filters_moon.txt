@@ -1,0 +1,1854 @@
+! fb ovoono
+||external.fskp3-1.fna.fbcdn.net/
+||external.fskp1-2.fna.fbcdn.net/
+
+
+||video.fskp3-1.fna.fbcdn.net/v/
+||video.fskp1-2.fna.fbcdn.net/v/
+||media3.giphy.com 
+
+
+!moi
+maktel.mk##.sidebar-main
+||adserver.mk
+||adsdms.mk
+||tas-mk.toboads.com
+||mastilo.mk
+! ||rdtk.io^
+
+! ##.itf-market-widget
+
+
+
+! Jan 8, 2026 https://skopje1.mk
+skopje1.mk##.gap-4.flex-col.flex.max-lg\:hidden.col-span-2
+
+! ||ads.com.mk
+
+
+! 2021-11-07 https://www.vecer.press
+www.vecer.press##.td-front-end-display-block.td-more-articles-box
+www.vecer.press##.td-footer-template-3.td-container-wrap.td-footer-container.td-footer-wrapper
+www.vecer.press##.td-container-wrap.td-sub-footer-container
+www.vecer.press##.td-ss-main-sidebar
+www.vecer.press##.td-pb-span4.tdc-column.vc_column_container.wpb_column.pocetna-najgore.td_uid_15_6187f39b69cad_rand.vc_column
+www.vecer.press##.td-header-gradient.td-header-menu-wrap
+www.vecer.press##.td-container-wrap.td-header-menu-wrap-full
+www.vecer.press##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
+www.vecer.press##.td-container-wrap.td-header-top-menu-full
+www.vecer.press##.td-is-sticky.td-pb-span7.tdc-inner-column.vc_column_container.wpb_column.td_uid_40_6187f39cd0065_rand.vc_column_inner > .vc_column-inner > .wpb_wrapper
+www.vecer.press##.td-pb-row.wpb_row.vc_inner.vc_row.td_uid_35_6187f39cc33b9_rand.vc_row_inner
+www.vecer.press##.td-pb-span8.tdc-column.vc_column_container.wpb_column.td_uid_3_6187f39b4d91d_rand.vc_column
+
+! 2021-11-07 https://www.mkd.mk
+www.mkd.mk##.panel-display.clearfix.panel-2col-stacked
+www.mkd.mk###header
+www.mkd.mk###footer
+www.mkd.mk##.panel-pane-odd.pane-mkd-meta-fb.pane-block.panel-pane > .pane-content
+www.mkd.mk##.panel-pane-even.clearfix.pane-node-links.panel-pane
+www.mkd.mk###mini-panel-naslovna_4 > .region-conditional-stack.region-two-75-25-bottom.region > .clearfix.region-inner > .panel-pane-even.pane-naslovna-rubrika-slider.pane-views-panes.panel-pane
+www.mkd.mk##.form-text
+
+
+! 2021-11-07 https://mk.tv21.tv
+mk.tv21.tv##.tdc-element-style.td-pb-row.wpb_row.tdi_28.tdc_zone
+mk.tv21.tv##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_64.vc_row_inner
+mk.tv21.tv##.td-pb-span12.tdc-inner-column.vc_column_container.wpb_column.tdi_77.vc_column_inner
+mk.tv21.tv##.tdc-element-style.td-pb-row.wpb_row.tdi_248.tdc_zone
+
+! 2021-11-07 https://telma.com.mk
+telma.com.mk##.footer__sidebars-style-4.footer__sidebar-col-4.footer__sidebars
+telma.com.mk##.penci-container-fluid.footer__sidebars-inner.footer__bottom_container
+telma.com.mk##.penci_has_copyright.penci_bottom-sub.penci-container-fluid.footer__sidebars-inner
+telma.com.mk###sg-popup-content-wrapper-47241
+telma.com.mk###sgpb-popup-dialog-main-div > div
+telma.com.mk##.sgpb-popup-overlay.sgpb-popup-overlay-47241.sgpb-theme-3-overlay
+telma.com.mk##.sgpb-cursor-pointer.sg-popup-content.sgpb-theme-3-content.sgpb-content-47241.sgpb-content
+telma.com.mk##.extvs-show-image.extvs-collapse.style-1.ex-tvs-plug.ex-tvs-simple
+telma.com.mk##.penci-vc-column-2.penci-link-filter-hidden.penci-imgtype-landscape.style-title-left.style-title-2.penci__general-meta.penci-grid_9.penci-block_grid.penci-block-vc
+
+! 2021-11-07 https://kanal5.com.mk
+kanal5.com.mk###\35 02136 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk##.program-top
+
+! 2021-11-07 https://faktor.mk
+faktor.mk###logo
+faktor.mk###footer
+faktor.mk##.main-articles
+faktor.mk##[src="https://www.iab.mk/wp-content/themes/iab/img/badges/crn/IAB-Badge-black-L.png"]
+faktor.mk##div.sharing:nth-of-type(3)
+faktor.mk##div.sharing:nth-of-type(1)
+faktor.mk###topbar
+faktor.mk##.adv-770x95.adspace
+
+! 2021-11-07 https://www.slobodenpecat.mk
+www.slobodenpecat.mk##.site-header-focus-item.ast-below-header.ast-below-header-bar
+www.slobodenpecat.mk###ast-desktop-header > .main-header-bar-wrap.ast-main-header-wrap > .site-header-focus-item.main-header-bar.ast-primary-header.ast-primary-header-bar
+www.slobodenpecat.mk###ast-desktop-header > .ast-above-header-wrap > .site-header-focus-item.ast-above-header.ast-above-header-bar
+www.slobodenpecat.mk##.related-posts
+www.slobodenpecat.mk##.ast-footer-row-mobile-stack.ast-footer-row-tablet-stack.ast-footer-row-stack.ast-builder-grid-row-mobile-full.ast-builder-grid-row-tablet-3-equal.ast-builder-grid-row-3-equal.site-footer-focus-item.ast-builder-grid-row-container.site-primary-footer-wrap
+www.slobodenpecat.mk##.ast-footer-row-mobile-stack.ast-footer-row-tablet-stack.ast-footer-row-inline.ast-builder-grid-row-mobile-full.ast-builder-grid-row-tablet-2-equal.ast-builder-grid-row-2-lheavy.site-footer-focus-item.ast-builder-grid-row-container.site-below-footer-wrap
+www.slobodenpecat.mk##[src^="https://www.facebook.com/v11.0/plugins/comments.php?app_id=531775211170325&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df18bb939dd9b9bc%26domain%3Dwww.slobodenpecat.mk%26is_canvas%3Dfalse%26origin%3Dhttps%"]
+
+! 2021-11-07 https://alsat.mk
+alsat.mk##.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar > .theiaStickySidebar
+alsat.mk##.fixed-not-bottom.fixed-top.fixed.default-behavior-mode.live-search-parent.header-nav.main-nav
+alsat.mk##.main-nav-wrapper
+alsat.mk##.share-buttons-bottom.share-buttons
+alsat.mk###footer-widgets-container
+alsat.mk##.site-info
+alsat.mk##.entry-header > .post-cat-wrap
+
+! 2021-11-07 https://nezavisen.mk
+nezavisen.mk##.td-header-gradient.td-header-menu-wrap
+nezavisen.mk##.td_stretch_content_1200.td_stretch_container.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
+nezavisen.mk##.td_stretch_content_1200.td_stretch_container.td-container-wrap.td-header-menu-wrap-full
+nezavisen.mk##.td_stretch_content_1200.td_stretch_container.td-container-wrap.td-header-top-menu-full
+nezavisen.mk##.td-crumb-container
+nezavisen.mk##.td-footer-template-13.td-container-wrap.td-footer-wrapper
+nezavisen.mk##.td-container-wrap.td-sub-footer-container
+nezavisen.mk###post-441370 > footer
+
+! 2021-11-07 https://360stepeni.mk
+360stepeni.mk##.hero__single-post.hero
+360stepeni.mk##.banner-video
+360stepeni.mk##.bg--black.p--t-b-10.justify-content-center.d-flex.top-banner
+360stepeni.mk##.single__social-share > .row
+360stepeni.mk##.site-footer
+360stepeni.mk##.after-footer-wrap
+360stepeni.mk##.related__category-title
+
+! 2021-11-07 https://opserver.mk
+opserver.mk##.clearfix.mh-row.mh-header-columns
+opserver.mk##.clearfix.mh-container-inner.mh-container.mh-extra-nav.mh-navigation
+opserver.mk##.mh-subheader > .clearfix.mh-row.mh-container-inner.mh-container
+opserver.mk##.clearfix.mh-container-inner.mh-container.mh-main-nav.mh-navigation
+opserver.mk##.mh-preheader > .clearfix.mh-row.mh-container-inner.mh-container
+opserver.mk##.mh-footer
+opserver.mk##.mh-footer-nav.mh-navigation > .clearfix.mh-container-inner.mh-container
+opserver.mk##.clearfix.mh-row.mh-post-nav
+opserver.mk###cookie-law-info-bar
+opserver.mk##.mh-copyright-wrap
+opserver.mk##.clearfix.entry-header > .entry-meta.mh-meta
+
+! 2021-11-07 https://www.slobodenpecat.mk
+www.slobodenpecat.mk###rid21ee61cd > .read-more-btn-container
+www.slobodenpecat.mk##.post-tags
+www.slobodenpecat.mk##[src^="https://www.facebook.com/v11.0/plugins/comments.php?app_id=531775211170325&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2017f32af5d4d8%26domain%3Dwww.slobodenpecat.mk%26is_canvas%3Dfalse%26origin%3Dhttps%"]
+www.slobodenpecat.mk##[src^="https://www.facebook.com/v11.0/plugins/page.php?adapt_container_width=false&app_id=531775211170325&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfb123d6a51b284%26domain%3Dwww.slobodenpecat.mk%26is_canvas%3D"]
+www.slobodenpecat.mk##[src="https://www.youtube.com/embed/R1arsZoAOBY?feature=oembed&hd=0&autohide=1&autoplay=1&mute=1"]
+www.slobodenpecat.mk##.related-posts-read-more
+www.slobodenpecat.mk##.hidden-sm.horizontal-divider
+www.slobodenpecat.mk##[src="https://www.youtube.com/embed/h31MLOvvlpc?start=2328&feature=oembed"]
+www.slobodenpecat.mk##.video-na-denot
+www.slobodenpecat.mk###ridc01ecb56 > .read-more-btn-container
+www.slobodenpecat.mk###alt-category-section-qotw
+!www.slobodenpecat.mk###section-category-64154-31 > .flex-column-sm.flex-row-lg.home-category-section > .sticky.col-span4.home-latest-news
+!www.slobodenpecat.mk###section-category-54
+
+! 2021-11-07 https://centar.mk
+centar.mk##.header--s5.site-header
+centar.mk###masthead-sticky-wrapper
+centar.mk##.style-1.clearfix.penci-topbar
+centar.mk##.penci-sidebar-widgets.penci-sticky-sidebar.widget-area-1.widget-area
+centar.mk##.footer__sidebars-style-4.footer__sidebar-col-4.footer__sidebars
+centar.mk##.penci-container-fluid.footer__sidebars-inner.footer__bottom_container
+centar.mk##.footer__copyright_menu
+
+! 2021-11-07 https://kurir.mk
+kurir.mk##.top-bar
+kurir.mk##.masthead-meta
+kurir.mk##.section-insider
+kurir.mk##.header-main
+kurir.mk##.zeska-tema-bg
+kurir.mk##.zeska-tema.section
+kurir.mk##.footer
+kurir.mk##.section-sport.section
+kurir.mk##.section-magazin.section-vesti.section
+kurir.mk##.col-md-3 > .section-latest-news.section
+kurir.mk##.article-header-breadcrumbs
+kurir.mk###lwdgt-284
+kurir.mk##.leaderboard-footer.leaderboard
+kurir.mk##.tag-list
+kurir.mk##.wid-39.lwdgt-container
+kurir.mk##.section-related-news.section > .module-header
+kurir.mk##section.section-latest-news.section > .container > .module-header
+
+! 2021-11-07 https://www.vecer.press
+www.vecer.press##.td-post-sharing-bottom
+www.vecer.press##.td-post-sharing-style1.td-ps-notext.td-ps-bg.td-post-sharing
+
+! 2021-11-07 https://vocentar.com
+vocentar.com##.hidden-xs.mg-head-detail > .container-fluid
+vocentar.com##.inner
+vocentar.com##.flex-row-reverse.container-fluid
+vocentar.com##.hidden-xs.mg-head-detail
+vocentar.com##.widget_tag_cloud.mg-widget
+vocentar.com##.heateor_sss_sharing_ul
+vocentar.com##footer > .overlay
+vocentar.com##.missed-inner
+vocentar.com##.mb-4.p-3.mg-featured-slider
+vocentar.com##.post-share
+vocentar.com##.post-navigation.navigation
+vocentar.com##.container-fluid > .row > .col-md-3
+vocentar.com##.mg-header > .mg-blog-category
+vocentar.com##.mg-tpt-tag-area
+vocentar.com##.mg-latest-news-sec > .container-fluid
+vocentar.com###sidebar-right
+vocentar.com###content > .row > .col-md-4
+vocentar.com##.top-right-area.col-md-4
+vocentar.com##.mg-posts-modul-1.mg-posts-sec
+
+! 2021-11-07 https://360stepeni.mk
+360stepeni.mk##.title-area > .custom-logo-link > .custom-logo
+360stepeni.mk##[href="https://360stepeni.mk/contact"]
+360stepeni.mk###menu-item-4103 > [href]
+360stepeni.mk###menu-item-4056 > [href="https://360stepeni.mk/category/sabotazha/"]
+360stepeni.mk###menu-item-4055 > [href="https://360stepeni.mk/category/debata/"]
+360stepeni.mk###menu-item-4054 > [href="https://360stepeni.mk/category/storija/"]
+360stepeni.mk###menu-item-4505 > [href="https://360stepeni.mk/category/aktuelno/"]
+360stepeni.mk##.site-header > .wrap
+
+! 2021-11-07 https://nezavisen.mk
+nezavisen.mk##.td-post-sharing-bottom
+nezavisen.mk##.td-post-next-prev.td-block-row
+
+! 2021-11-07 https://popara.mk
+popara.mk##.gutter.btClear.mainHeader
+popara.mk##.btTextLeft.btSidebar
+popara.mk##.bottomSemiSpaced.gutter.boldSection
+popara.mk##.bottomMediumSpaced.gutter.btSinglePostBanner.boldSection
+popara.mk##.btGutter.btSiteFooter.gutter.boldSection
+popara.mk##.wid-1.lwdgt-container
+popara.mk##.boldRelated.topMediumSpaced.boldRow
+popara.mk##.boldShare.topMediumSpaced.boldRow
+
+! 2021-11-07 https://www.ohridnews.com
+www.ohridnews.com###header
+www.ohridnews.com##.one-third-sidebar.sidebar
+
+! 2021-11-07 https://skopje24.mk
+skopje24.mk##.td-ss-main-sidebar
+skopje24.mk##.td-footer-wrapper
+skopje24.mk##.td-sub-footer-container
+skopje24.mk##.td-crumb-container
+skopje24.mk##.td-banner-wrap-full
+skopje24.mk##.td-header-menu-wrap
+skopje24.mk##.td-header-menu-wrap-full
+skopje24.mk##.td-a-rec-id-content_bottom.td-a-rec
+skopje24.mk##.td-post-next-prev.td-block-row
+skopje24.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_39_618809b738a19_rand.td_block_related_posts.td_block_wrap
+skopje24.mk##p:nth-of-type(7)
+skopje24.mk##.td-post-content > div
+skopje24.mk##.td-pb-span4.vc_column_container.wpb_column
+skopje24.mk##.td-pb-span12.vc_column_container.wpb_column > .vc_column-inner
+skopje24.mk##.vc_tta-tabs-container
+skopje24.mk##.td-category
+
+! 2021-11-07 http://reklama5.mk
+reklama5.mk##.footer-container.container-fluid
+reklama5.mk##[src="/Content/images/no1.jpg"]
+
+! 2021-11-08 https://sitel.com.mk
+sitel.com.mk##.header-super-wrapper
+sitel.com.mk##.footer-super-wrapper
+sitel.com.mk##.connect-to-sidebar.pane-bottom-space-30.pane-8.pane-custom.panel-pane > .pane-content > .social-buttons-wrapper
+sitel.com.mk##[src^="https://web.facebook.com/v2.2/plugins/comments.php?app_id=825444660876468&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df14dff89d72ffdc%26domain%3Dsitel.com.mk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F"]
+sitel.com.mk##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+sitel.com.mk##.sport.default-pane-title.pane-bottom-space.full-content-pane.pane-panel-news-1-panel-so-vesti-1.pane-views-panes.panel-pane
+
+! 2021-11-08 https://www.24.mk
+||24.mk/ad.php
+||res.cloudinary.com/keystone-demo/image/upload/v17*
+
+
+! 2021-11-08 https://republika.mk
+republika.mk##.ml-xl-5.mt-lg-0.mt-5.col.sidebar
+republika.mk##.bg-1.sticky-header.f-main
+republika.mk##.menu-divider
+republika.mk##p:nth-of-type(12)
+republika.mk##.clearfix.post-pagination
+republika.mk##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+republika.mk##.tags
+republika.mk##.mt-2
+republika.mk##.f-text.l-white.c-white.bg-black.copyright
+
+! 2021-11-08 https://24info.mk
+24info.mk##.style-1.clearfix.penci-topbar
+24info.mk##.header--s2.header__top
+24info.mk##.penci-vc-column-1.penci-link-filter-hidden.penci-widget__social_counter.penci-social_counter.penci-widget.style-title-left.style-title-13.penci-widget-sidebar.widget.penci-social-counter--style-2.penci-social-counter.penci-block-vc
+24info.mk##.penci_has_menu.penci_has_copyright.penci_bottom-sub.penci-container-fluid.footer__sidebars-inner
+24info.mk##.footer__sidebars-style-4.footer__sidebar-col-4.footer__sidebars
+
+! 2021-11-08 https://www.novamakedonija.com.mk
+www.novamakedonija.com.mk##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
+www.novamakedonija.com.mk##.td-container-wrap.td-header-top-menu-full
+www.novamakedonija.com.mk##.td-front-end-display-block.td-more-articles-box
+www.novamakedonija.com.mk##p:nth-of-type(3)
+www.novamakedonija.com.mk##.td-footer-template-14.td-container-wrap.td-footer-container.td-footer-wrapper
+www.novamakedonija.com.mk##.td-container-wrap.td-sub-footer-container
+www.novamakedonija.com.mk##.author-box-wrap
+www.novamakedonija.com.mk##footer
+www.novamakedonija.com.mk##.td-post-sharing-style17.td-ps-text-color.td-ps-icon-color.td-ps-padding.td-ps-border-grey.td-ps-border.td-post-sharing
+www.novamakedonija.com.mk##.td-ss-main-sidebar
+www.novamakedonija.com.mk##.td-post-sharing-top > .td-post-sharing-classic > [src^="https://www.facebook.com/plugins/like.php?href=https://www.novamakedonija.com.mk/multimedija/galerija/%d0%b3%d0%b0%d0%bb%d0%b5%d1%80%d0%b8%d1%98%d0%b0-%d0%b7%d0%b0%d0%b2%d1%80%d1%88%d0%b8-%d0%b8%d0%b7%d0%bb%d0%be%d0%b6%d0%b1%d0%b0%d1%82%d0%b0-%d1%86%d0%b2%"]
+www.novamakedonija.com.mk##.td-post-sharing-top > .td-post-sharing-classic
+www.novamakedonija.com.mk##.td-category
+www.novamakedonija.com.mk##.td-crumb-container
+www.novamakedonija.com.mk##.tdi_84_226.vc_widget_sidebar.td_block_wrap.wpb_wrapper
+
+! 2021-11-08 https://www.vecer.press
+www.vecer.press##.td-post-prev-post.td-block-span6
+www.vecer.press##.td-post-next-prev.td-block-row
+www.vecer.press##.td-pb-span4.tdc-column.vc_column_container.wpb_column.pocetna-najgore.td_uid_15_61889c2268919_rand.vc_column
+www.vecer.press##.td-is-sticky.td-pb-span7.tdc-inner-column.vc_column_container.wpb_column.td_uid_40_61889c241e3d3_rand.vc_column_inner > .vc_column-inner > .wpb_wrapper
+www.vecer.press##.td-pb-row.wpb_row.vc_inner.vc_row.td_uid_35_61889c23b00ac_rand.vc_row_inner
+www.vecer.press##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.td_uid_52_61889c24a8c0e_rand.vc_column
+www.vecer.press##._ning_visible._align_center._ning_hidden._ning_cont.angwp_371524 > ._ning_inner > ._ning_link.strack_cli
+www.vecer.press##._ning_visible._align_center._ning_hidden._ning_cont.angwp_371524 > ._ning_inner > ._ning_elmt > [src]
+www.vecer.press##._ning_visible._align_center._ning_hidden._ning_cont.angwp_371524 > ._ning_inner
+www.vecer.press##._ning_visible._align_center._ning_hidden._ning_cont.angwp_371524
+www.vecer.press###_ning_zone_371516_10724541 > div > div > div > .activeSlide > .active.slide.slide_1
+www.vecer.press###_ning_zone_371516_10724541 > div > div > div > .activeSlide > div
+www.vecer.press###_ning_zone_371516_10724541 > div > div > div > .activeSlide
+www.vecer.press###_ning_zone_371516_10724541 > div > div > div
+www.vecer.press###_ning_zone_371516_10724541 > div > div
+www.vecer.press###_ning_zone_371516_10724541 > div
+www.vecer.press##.td-trending-now-wrapper
+www.vecer.press##.td_block_template_1.pocetna-slider.td-pb-border-top.td_uid_12_61889c226272d_rand.td_block_trending_now.td_block_wrap
+www.vecer.press##._align_center._ning_jss_zone.ang_zone_371516._ning_outer.angwp_371516 > ._ning_zone_inner
+www.vecer.press##.td-pb-span4.tdc-column.vc_column_container.wpb_column.td_uid_62_61889c2518018_rand.vc_column
+
+! 2021-11-08 https://www.mkd.mk
+www.mkd.mk##.panel-pane-odd.clearfix.pane-node-links.panel-pane
+
+! 2021-11-08 https://www.ubavinaizdravje.mk
+www.ubavinaizdravje.mk##.main-menu-inner
+www.ubavinaizdravje.mk##.header-inner
+www.ubavinaizdravje.mk##.sidebar-column-primary.sidebar-column.col-sm-4 > .sidebar
+www.ubavinaizdravje.mk##.bspw-header-style-1.bs-pinning-wrapper
+www.ubavinaizdravje.mk##.use-pretty-tabs.hidden-xs.topbar-style-1.topbar
+www.ubavinaizdravje.mk##.no-bg-box-model.sgnqwvl-clearfix.sgnqwvl-column-1.sgnqwvl-align-center.sgnqwvl-loc-header_before.sgnqwvl-show-phone.sgnqwvl-show-tablet-landscape.sgnqwvl-show-tablet-portrait.sgnqwvl-show-desktop.sgnqwvl-pubadban.sgnqwvl-before-header.sgnqwvl
+www.ubavinaizdravje.mk##.active.more-stories-thumbnail-1.right.more-stories
+www.ubavinaizdravje.mk##.clearfix.next-prev-post
+www.ubavinaizdravje.mk###lwdgt-7889
+www.ubavinaizdravje.mk###reply-title > .sh-s8.sh-t3.section-heading
+www.ubavinaizdravje.mk##.bsnp-s3.bsnp-t1.bsnp-st-wide.bsnp-mailerlite.bs-newsletter-pack.bs-shortcode
+www.ubavinaizdravje.mk##.light-text.footer-widgets
+www.ubavinaizdravje.mk##.comment-form
+www.ubavinaizdravje.mk##.copy-footer
+www.ubavinaizdravje.mk##.akismet_comment_form_privacy_notice
+www.ubavinaizdravje.mk##.style-1.clearfix.bottom-share.single-post-share.post-share > .bs-pretty-tabs-initialized.bs-pretty-tabs.share-handler-wrap
+www.ubavinaizdravje.mk##.post-related
+www.ubavinaizdravje.mk##blockquote
+www.ubavinaizdravje.mk##p:nth-of-type(5)
+www.ubavinaizdravje.mk##.columns-2.clearfix.listing-tb-1.listing-thumbnail.listing
+www.ubavinaizdravje.mk##.bs-irp-thumbnail-1-full.center.bs-irp
+www.ubavinaizdravje.mk##.vc_col-sm-3.vc_column_container.bs-vc-column.wpb_column.naslovna-baneri
+www.ubavinaizdravje.mk##.vc_col-sm-3.vc_column_container.bs-vc-column.wpb_column > .wpb_wrapper.bs-vc-wrapper
+www.ubavinaizdravje.mk##.vc_row-has-fill.vc_custom_1516410824629.vc_row-fluid.wpb_row.vc_row.row
+www.ubavinaizdravje.mk##.pagination-animate.bs-listing-single-tab.bs-listing-listing-thumbnail-1.bs-listing.vc_custom_1514331763888
+
+! 2021-11-08 https://popara.mk
+popara.mk##.btArticleMeta
+
+! 2021-11-08 https://skopjeinfo.mk
+skopjeinfo.mk##.header-wrapper__top
+skopjeinfo.mk##.header-wrapper__bottom
+skopjeinfo.mk##.footer-wrapper__bottom
+skopjeinfo.mk##.footer-wrapper__top
+skopjeinfo.mk##[src^="https://www.facebook.com/v4.0/plugins/comments.php?app_id=495719987265946&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfad6824b99550c%26domain%3Dskopjeinfo.mk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F"]
+skopjeinfo.mk##.layout__bottom.row > .col-12
+skopjeinfo.mk##.layout__top.row > .col-12
+skopjeinfo.mk##.block__content > .d-flex
+||www.facebook.com/v4.0/plugins/comments.php$subdocument
+skopjeinfo.mk##.js-sticky-elements.col-lg-4.col-12
+skopjeinfo.mk##.layout__media.row
+
+! 2021-11-08 https://smart.sdk.mk
+smart.sdk.mk###main-header
+smart.sdk.mk##.et_pb_extra_column_sidebar
+smart.sdk.mk###main-header-wrapper
+smart.sdk.mk##div.post-footer:nth-of-type(2)
+smart.sdk.mk##div.post-footer:nth-of-type(5)
+smart.sdk.mk##.footer_columns_1_4__3_4
+smart.sdk.mk##.related-posts-header > h3
+smart.sdk.mk##.clearfix.related-posts-content
+smart.sdk.mk##.related-posts-header
+
+! 2021-11-08 https://zenskimagazin.mk
+zenskimagazin.mk##.nav--sticky.nav__holder
+zenskimagazin.mk##.d-lg-block.d-none.logo
+zenskimagazin.mk##.header
+zenskimagazin.mk##.nav
+zenskimagazin.mk##.sidebar--right.sidebar.col-lg-4
+zenskimagazin.mk##p:nth-of-type(8)
+zenskimagazin.mk##.related-posts
+zenskimagazin.mk##.footer__bottom
+zenskimagazin.mk##.entry > .socialmedia-zm
+zenskimagazin.mk##p:nth-of-type(13)
+zenskimagazin.mk##p:nth-of-type(17)
+
+! 2021-11-08 https://zoom.mk
+zoom.mk##.td-ss-main-sidebar
+zoom.mk##.td-header-main-menu.td-header-border.td-header-row
+zoom.mk##footer
+zoom.mk##.td-related-row
+zoom.mk##.td-container-border.td-container.td-sub-footer-container
+zoom.mk##.td-header-menu-wrap
+
+! 2021-11-08 https://puls24.mk
+puls24.mk###header
+puls24.mk##.widget_custom_html.widget.widget_text
+puls24.mk###sidebar > .theiaStickySidebar
+puls24.mk###news-ticker
+puls24.mk##.mashsb-stretched.mashsb-main.mashsb-container
+puls24.mk##.sxc-follow-buttons
+puls24.mk##.related_posts > .theiaStickySidebar
+puls24.mk###lwdgt-3769
+puls24.mk##.widget-columns-3.widgets.footer-widgets
+puls24.mk##.site-info-top
+puls24.mk##.site-info
+puls24.mk##.entry-header > .entry-meta
+puls24.mk##.navigation
+
+! 2021-11-08 https://24auto.mk
+24auto.mk##.td-main-sidebar.td-pb-span4
+24auto.mk##.td-header-top-menu-full
+24auto.mk##.td-header-gradient.td-header-menu-wrap
+24auto.mk##.padding-zero.td-pb-span3
+24auto.mk##footer > div
+24auto.mk##.td-sub-footer-container
+24auto.mk##[href^="https://invite.viber.com/"]
+24auto.mk##h5
+24auto.mk##.padding-right-zero.td-pb-span9 > div.clearfix
+24auto.mk##.heateor_ffc_facebook_comments
+
+! 2021-11-08 https://ekran.mk
+ekran.mk##.header-content
+ekran.mk##.theiaStickySidebar
+ekran.mk##.category-tehnologija.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post-167157
+ekran.mk##.post-inner > .share-post
+ekran.mk###tagNeki
+ekran.mk##.show-check-also.check-also-right.post-listing
+
+! 2021-11-08 https://telefoni.mk
+telefoni.mk###top-menu-shadow
+telefoni.mk###logo-bar
+telefoni.mk###top-menu-wrapper
+telefoni.mk##.sidebar
+telefoni.mk###footer > .inner
+telefoni.mk###related > .ui-tabs-nav.tabnav
+telefoni.mk###related
+telefoni.mk###footer > .copyright
+telefoni.mk##.section
+telefoni.mk##[src^="https://www.facebook.com/v2.6/plugins/like.php?app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1be3276f64f22%26domain%3Dtelefoni.mk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Ftelefoni.mk%252F"]
+telefoni.mk##.review.section-wrapper
+telefoni.mk##.content-panel > .copyright
+
+! 2021-11-08 https://makpress.mk
+makpress.mk##.navbar-inverse.navbar
+makpress.mk##.header.container
+makpress.mk##.bordered
+makpress.mk##.top-sec
+makpress.mk##footer
+makpress.mk##.col-sm-4.col-md-7.col-lg-7 > .row
+
+! 2021-11-08 https://mk.tv21.tv
+mk.tv21.tv##.td-is-sticky.td-pb-span3.tdc-column.vc_column_container.wpb_column.tdi_105.vc_column > .wpb_wrapper
+mk.tv21.tv##.tdc-element-style.td-pb-row.wpb_row.tdi_122.tdc_zone
+mk.tv21.tv##.td_block_template_1.td-pb-border-top.tdb-content-vert-top.tdi_91.tdb_single_author_box.td_block_wrap.tdb-author-box
+mk.tv21.tv##.td_separator_center.td_separator_solid.tdi_99.vc_separator.td_block_wrap.td_block_separator.wpb_wrapper
+mk.tv21.tv##.td_block_template_1.td-pb-border-top.tdi_97.tdb_single_post_share.td_block_wrap > .td-post-sharing-style5.td-ps-bar.td-ps-notext.td-ps-bg.tdb-block.td-post-sharing
+
+! 2021-11-08 https://opserver.mk
+opserver.mk##.mh-sidebar-wide.mh-home-sidebar-2.mh-sidebar-2.mh-widget-col-1
+
+! 2021-11-08 https://www.slobodenpecat.mk
+www.slobodenpecat.mk##.msp-column.col-span3.left-sidebar.sticky
+||www.facebook.com/v11.0/plugins/comments.php$subdocument
+www.slobodenpecat.mk##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.slobodenpecat.mk##.meta-after-content
+www.slobodenpecat.mk##hr.horizontal-divider:nth-of-type(2)
+www.slobodenpecat.mk##.fb-page-conatiner
+
+! 2021-11-08 https://libertas.mk
+libertas.mk##.mobile-header-default.has-shadow.top-nav-above.top-nav-light.top-nav-active.main-nav-boxed.main-nav-below.main-nav-dark.header-layout-3.theme-header
+libertas.mk##.theiaStickySidebar
+libertas.mk##.post-footer-on-bottom.post-footer
+libertas.mk##.site-info-layout-2.site-info
+libertas.mk###tie-block_1757 > .container-wrapper
+
+! 2021-11-08 https://novatv.mk
+novatv.mk##.x-large-mb-4.small-mb-2.header--container
+novatv.mk##.small-mb-2.by-category--color.entry-category
+novatv.mk##.small-12.column
+novatv.mk##.u-items--middle.u-items--center.u-flex.single-post-edit
+novatv.mk###colophon > .social-navigation
+novatv.mk##.small-pb-2.small-pt-2.text-center.u-items--middle.row
+novatv.mk##.footer-social-title.strikethrough-title.main-font
+novatv.mk##.hor-sep-t.u-items--center.small-pb-1.small-pt-1.footer-menu.column.row
+novatv.mk##.entry-footer
+novatv.mk##.is-sticky.sticky-navbar__shadow.sticky-navbar__logo.sticky-navbar
+novatv.mk##.sep-b-post.layout--grid.grid-for-mobile.large-up-3.medium-up-3.row
+
+! 2021-11-08 https://kanal5.com.mk
+kanal5.com.mk##.head
+kanal5.com.mk###\35 02163 > .content-wrapper > .columns-wrapper > .big-column > .article-content > aside
+kanal5.com.mk###\35 02163 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02171 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02151 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02173 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02173 > .content-wrapper > .columns-wrapper > .big-column > .article-content > aside
+kanal5.com.mk###\35 02155 > .content-wrapper > .columns-wrapper > .small-column
+
+! 2021-11-08 https://telma.com.mk
+telma.com.mk##.header--s2.header__top
+telma.com.mk##.penci-post-related
+telma.com.mk##.penci-social-share-footer.penci-social-buttons
+
+! 2021-11-08 https://fokus.mk
+fokus.mk##.menu-style-1.header-6.header-layout-bottom
+fokus.mk###sidebar > .theiaStickySidebar
+fokus.mk###navigation-sticky-wrapper
+fokus.mk##.penci-sticky-sidebar.pcicon-right.pciconp-right.pcalign-left.style-12.penci-sidebar-content.penci-sidebar-right
+fokus.mk##.penci-sticky-sidebar.pcicon-right.pciconp-right.pcalign-left.style-12.penci-sidebar-content.penci-sidebar-left
+fokus.mk###fokus-18372070 > .fokus-target
+fokus.mk##.footer-social-remove-circle.penci-lazy.penci-footer-social-media
+fokus.mk##.post-related
+fokus.mk##.post-pagination
+fokus.mk##.tags-share-box-s1.center-box.tags-share-box
+fokus.mk##.fokus-adlabel
+fokus.mk##.elementor-widget-sidebar.elementor-widget.elementor-element-7c53964.elementor-element
+fokus.mk##.elementor-element-34ddb03.elementor-element.elementor-top-column.elementor-col-25.elementor-column.penci-sidebarSC.penci-sticky-sb.penci-ercol-order-1.penci-ercol-25
+fokus.mk##.elementor-element-e81f11f.elementor-element.elementor-top-column.elementor-col-25.elementor-column.penci-sidebarSC.penci-sticky-sb.penci-ercol-order-3.penci-ercol-25 > .elementor-element-populated.elementor-column-wrap.theiaStickySidebar > .elementor-widget-wrap
+fokus.mk##.elementor-element-e81f11f.elementor-element.elementor-top-column.elementor-col-25.elementor-column.penci-sidebarSC.penci-sticky-sb.penci-ercol-order-3.penci-ercol-25
+
+! 2021-11-08 https://lider.mk
+lider.mk##.menu-divider
+lider.mk##.bg-1.sticky-header.f-main
+lider.mk##.text-right.share.col-md-6
+lider.mk##.tags
+lider.mk##.mt-2
+lider.mk##.bg-2.section-podcast.section
+lider.mk###footer
+lider.mk##.section-latest-news.section
+lider.mk##.section-related-news.section > div.row > .col-12.sectionHeader
+lider.mk##.row.articles
+
+! 2021-11-08 https://zoom.mk
+zoom.mk##.meta-info
+zoom.mk##.td-category
+
+! 2021-11-08 https://www.biznisvesti.mk
+www.biznisvesti.mk##.header-content
+www.biznisvesti.mk##.top-nav
+www.biznisvesti.mk##.breaking-news
+www.biznisvesti.mk##.fixed-enabled
+www.biznisvesti.mk##.share-post
+www.biznisvesti.mk##.show-check-also.check-also-right.post-listing
+
+! 2021-11-08 https://meta.mk
+meta.mk##.td-header-menu-no-search.td-header-gradient.td-header-menu-wrap
+meta.mk##.td_stretch_content_1400.td_stretch_container.td-container-wrap.td-header-menu-wrap-full
+meta.mk##.td_stretch_content_1400.td_stretch_container.td-container-wrap.td-header-top-menu-full
+meta.mk##[href^="https://invite.viber.com/"]
+meta.mk##.td_stretch_content_1400.td_stretch_container.td-footer-template-9.td-container-wrap.td-footer-wrapper
+meta.mk##.td_stretch_content_1400.td_stretch_container.td-container-wrap.td-sub-footer-container
+meta.mk##.td-post-sharing-bottom
+meta.mk##.td-post-source-tags
+
+! 2021-11-08 https://alfa.mk
+alfa.mk##.data-bg.masthead-banner
+alfa.mk##.top-masthead
+alfa.mk##.main-navigation
+alfa.mk##.primary-footer
+alfa.mk##.site-footer
+
+! 2021-11-08 https://skopskoeho.mk
+##.custom-html-widget.textwidget
+
+
+
+! 2021-11-08 https://www.slobodnaevropa.mk
+www.slobodnaevropa.mk##.pos-rel.hdr-20__max
+www.slobodnaevropa.mk##.hdr-20__inner--trans.hdr-20__inner
+www.slobodnaevropa.mk##.foot
+www.slobodnaevropa.mk##.news__share-outer
+www.slobodnaevropa.mk##.hdr-20--big.hdr-20
+
+! 2021-11-08 https://time.mk
+!time.mk###header_content
+time.mk###ads_pane
+time.mk###footer
+!time.mk###copyright > center > .dbar
+!time.mk###bar
+time.mk###adpos1
+!time.mk###wrapper > div.h_rule
+time.mk###adpos4
+!time.mk##div:nth-of-type(8)
+!time.mk##div#vremeplov.kategorija_wrap > .kategorija_clusters
+!time.mk##.source > div.h_rule
+
+time.mk##table#group_discounts:nth-of-type(1) > tbody
+
+
+! 2021-11-08 https://lokalno.mk
+lokalno.mk##.penci-header-wrap
+lokalno.mk###sidebar > .theiaStickySidebar
+lokalno.mk##.post-related
+lokalno.mk##.tags-share-box-s3.tags-share-box-2_3.tags-share-box
+lokalno.mk##.footer-social-remove-circle.penci-lazy.penci-footer-social-media
+lokalno.mk##.post-tags
+
+! 2021-11-08 https://time.mk
+time.mk###sharing_container
+time.mk##table#group_discounts .kategorija_naslov
+time.mk##table#group_discounts > tbody > tr > td > center
+time.mk##.twitter-follow-button-rendered.twitter-follow-button
+time.mk###twuserinfo > div#c11.k_naslov > span
+
+! 2021-11-08 https://denesen.mk
+denesen.mk##.single-featured-news.section
+denesen.mk###lwdgt-1313
+denesen.mk##.ml-lg-4.mt-lg-0.mt-5.col.sidebar
+denesen.mk###footer
+denesen.mk##.related-item
+denesen.mk##.justify-content-center.row
+denesen.mk##.ssbp--theme-1.left.ssbp-wrap.ssba.ssba-classic-2 > div
+denesen.mk##.f-main.c-meta.l-black.f-title.clearfix.post-tags
+denesen.mk##hr.mt-2
+
+! 2021-11-08 https://sport1.mk
+sport1.mk###header
+sport1.mk##.article-sidebar.col-md-push-2.col-md-3
+sport1.mk##.branding-desno
+sport1.mk##.branding-levo
+sport1.mk###footer
+sport1.mk##.article > footer
+sport1.mk##div.col-xs-6:nth-of-type(2)
+sport1.mk###mini-panel-front_top_additional > .row > .col-md-3.right
+sport1.mk###mini-panel-external > .row
+sport1.mk##.container.pane-external.pane-panels-mini.panel-pane > .pane-title
+sport1.mk##.pane-video-foto.pane-panels-mini.panel-pane
+
+! 2021-11-08 https://www.gol.mk
+www.gol.mk###page-header
+www.gol.mk##.sidebar.column.region-sidebar-second.region
+www.gol.mk##.region-footer.region
+www.gol.mk##.header
+
+! 2021-11-08 https://24fudbal.mk
+24fudbal.mk##.top-bar
+24fudbal.mk##.main-footer
+24fudbal.mk##.col-sm-4
+24fudbal.mk##.bs-docs-nav.navbar-inverse.navbar
+24fudbal.mk##.row > .col-sm-12
+
+! 2021-11-08 https://denar.mk
+denar.mk##.jeg_header_wrapper > .normal.jeg_header
+denar.mk##.vc_col-sm-12.vc_column_container.jeg_column.wpb_column
+denar.mk##.vc_col-sm-4.vc_column_container.jeg_column.wpb_column > .wpb_wrapper.jeg_wrapper
+denar.mk##.section.comment-wrapper
+denar.mk##.clearfix.share-bottom.jeg_share_button > .jeg_sharelist
+denar.mk##.jeg_prevnext_post
+denar.mk##.jeg_footer_content
+denar.mk##.vc_row-has-fill.vc_custom_1603356742933.vc_row-fluid.wpb_row.vc_row.row
+
+! 2021-11-08 https://tocka.com.mk
+tocka.com.mk##.clearfix.top-menu
+tocka.com.mk##.clearfix.single-page-top
+tocka.com.mk##.clearfix.opcii
+tocka.com.mk##.cl.denes-right-sidebar
+tocka.com.mk##.right-sidebar.col-md-4.col-sm-12.col-xs-12
+tocka.com.mk###eadtwrp_87cd355c58658e3bd890a390b5ca9e1664ac2fc9ac5469a8fd2ef763ebd9384d
+tocka.com.mk##.clearfix.sponzorirani-linkovi > .container > div.row > .col-md-12.col-sm-12.col-xs-12
+tocka.com.mk##.sl-items.row
+tocka.com.mk##.category-menu
+
+! 2021-11-08 https://skopje24.mk
+skopje24.mk##.td-post-sharing-top.td-post-sharing
+skopje24.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_39_6188caa51fbc6_rand.td_block_related_posts.td_block_wrap
+
+! 2021-11-08 https://skopskoeho.mk
+skopskoeho.mk##.td_block_template_8.td-pb-border-top.td_with_ajax_pagination.td_uid_4_6188caf319f46_rand.td_block_related_posts.td_block_wrap
+skopskoeho.mk##footer
+skopskoeho.mk##.td-pb-span4.tdc-column.vc_column_container.wpb_column.td_uid_20_6188cb140e85e_rand.vc_column
+
+! 2021-11-08 https://iportal.mk
+iportal.mk##.main-header
+iportal.mk##.clearfix.share-wrap-inner
+iportal.mk##.main-footer
+iportal.mk###text-10
+
+! 2021-11-08 https://gradina.mk
+gradina.mk##.theme-header
+gradina.mk###sidebar
+gradina.mk###theme-footer
+gradina.mk##.footer-bottom
+gradina.mk##.post-navigation
+gradina.mk##.post-inner > .share-post
+||gradina.mk/wp-content/uploads/2017/02/gradina-bg.jpg$image
+||gradina.mk/wp-content/themes/Sahifa-Theme/sahifa/images/patterns/body-bg7.png$image
+
+! 2021-11-08 https://off.net.mk
+off.net.mk##.system-branding-block.block
+off.net.mk##.col-md-4.region-baneri.layout-region
+off.net.mk##.footer.block
+off.net.mk##.js-view-dom-id-3170c3b7ec70fd70d36c54f73173eecfecd0e83b9afc4607e995d96cf66d0787 > div.views-row > .povrzani.kratka-statija > .share-buttons-created
+off.net.mk##ul.inline.links:nth-of-type(2)
+off.net.mk##.meta > .published_on
+off.net.mk##.povrzani-propushteno.block.sidebar-block > .block-title
+off.net.mk##.povrzani-container.block > .row > .col-md-4.region-baneri.region-sidebar
+off.net.mk##.povrzani-propushteno.block-section.block.sidebar-block
+off.net.mk##.col-md-2.col-sm-6.col-xs-12.region-razno.layout-region
+off.net.mk##.kujna-razno.section
+off.net.mk##div.views-row.col-xs-12 > .category
+off.net.mk##.share-buttons-created
+
+! 2021-11-08 http://reklama5.mk
+reklama5.mk##.newContactRightDiv
+
+! 2021-11-08 https://www.pazar3.mk
+||www.facebook.com/v10.0/plugins/customerchat.php$subdocument
+||www.facebook.com/v10.0/plugins/customer_chat/bubble$subdocument
+www.pazar3.mk##[src^="https://www.facebook.com/v10.0/plugins/customerchat.php?app_id=436156359834971&attribution=setup_tool&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df178ed4a2ff0178%26domain%3Dwww.pazar3.mk%26is_canvas%3Dfal"]
+||www.facebook.com/v10.0/plugins/*$subdocument
+
+! 2021-11-08 https://ledikom.mk
+ledikom.mk##.font-semi-bold > .container
+
+! 2021-11-08 https://sportski.mk
+sportski.mk##.header-wrapper
+sportski.mk##.bdaia-footer
+sportski.mk##.breaking-news-items
+sportski.mk##.widget_custom_html.bdaia-widget.widget.widget_text
+
+! 2021-11-08 https://opserver.mk
+opserver.mk###text-155 > .textwidget > p
+opserver.mk###text-151 > .textwidget > p
+opserver.mk###text-153 > .textwidget > p
+opserver.mk###text-139 > .textwidget > p
+opserver.mk###text-152 > .textwidget > p
+opserver.mk###text-161 > .textwidget > p
+opserver.mk###text-149 > .textwidget > p
+opserver.mk###text-146 > .textwidget > p
+opserver.mk###text-164 > .textwidget > p
+opserver.mk##.mh-social-bottom
+opserver.mk###mh_magazine_carousel-21 > .mh-widget-title
+
+! 2021-11-08 https://frontline.mk
+frontline.mk##.jeg_header_wrapper > .normal.jeg_header
+frontline.mk##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
+frontline.mk##.jeg_share_top_container
+frontline.mk##.wp-caption-text
+frontline.mk##.jeg_meta_container
+frontline.mk##.jeg_footer_content
+frontline.mk##div.vc_row.row:nth-of-type(2)
+frontline.mk##.jeg_sidebar.jeg_sticky_sidebar.vc_col-sm-4.vc_column_container.jeg_column.wpb_column
+
+! 2021-11-08 https://kajgana.com
+kajgana.com##.page__header-top > .container > .align-items-center.justify-content-between.row
+kajgana.com##.page__footer
+kajgana.com###kswidget
+
+! 2021-11-08 https://forum.kajgana.com
+forum.kajgana.com##.p-header
+forum.kajgana.com##.p-footer-inner-noBg.p-footer-inner
+forum.kajgana.com##div.block:nth-of-type(9)
+
+! 2021-11-08 https://www.mkd.mk
+www.mkd.mk##.popular-izvor
+
+! 2021-11-08 https://www.crnobelo.com
+www.crnobelo.com###header
+www.crnobelo.com###col-right
+www.crnobelo.com##.jobs.moduletable
+www.crnobelo.com##.jvrelart_row.row-fluid > .clearfix
+www.crnobelo.com##.forum-threads.ultimaterss
+www.crnobelo.com###footer
+www.crnobelo.com##.custom-fb-comment
+www.crnobelo.com##div.itp-share:nth-of-type(7)
+www.crnobelo.com##.jvrel_caption
+www.crnobelo.com##p:nth-of-type(13)
+www.crnobelo.com##div.itp-share:nth-of-type(3)
+
+! 2021-11-08 https://novatv.mk
+novatv.mk##.hor-sep-b.sep-b-post.small-pb-2.small-pt-2.row
+novatv.mk##.footer-social-header
+novatv.mk###carousel-top > .hor-sep-b.small-pb-2.column.row
+
+! 2021-11-08 https://netpress.com.mk
+netpress.com.mk##.td-header-style-1.td-header-wrap
+netpress.com.mk##.td-post-sharing-top > .td-post-sharing-style1.td-ps-notext.td-ps-bg.td-post-sharing
+netpress.com.mk##.td-post-sharing-top > .td-post-sharing-classic
+netpress.com.mk##.td-category
+netpress.com.mk##.td_block_template_11.td_uid_4_6188da8e3282d_rand.td-a-rec-id-content_bottom.td-a-rec
+netpress.com.mk##.uslovi
+netpress.com.mk##.td_block_template_11.td-pb-border-top.td_with_ajax_pagination.td_uid_5_6188da8e36496_rand.td_block_related_posts.td_block_wrap
+netpress.com.mk##.td-footer-template-4.td-container-wrap.td-footer-wrapper
+netpress.com.mk###post-668768 > footer
+netpress.com.mk##.td-container-wrap.td-sub-footer-container
+
+! 2021-11-08 https://kumanovskimuabeti.mk
+kumanovskimuabeti.mk##.sticky-wrapper
+kumanovskimuabeti.mk##[src^="https://web.facebook.com/v2.10/plugins/like.php?app_id=1836664523310599&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df26eb807d02b794%26domain%3Dkumanovskimuabeti.mk%26is_canvas%3Dfalse%26origin%3Dhttps%253"]
+kumanovskimuabeti.mk##.layout-narrow-right-right.hgrid-span-3.sidebar-secondary.sidebar
+kumanovskimuabeti.mk##[src="https://cdn.kumanovskimuabeti.mk/2021/09/44.jpg"]
+kumanovskimuabeti.mk##.inline-nav.hgrid-stretch.footer.site-footer
+kumanovskimuabeti.mk###post-footer > .hgrid > .hgrid-span-12
+kumanovskimuabeti.mk##.linkstyle.hgrid-stretch.post-footer
+kumanovskimuabeti.mk##.aligncenter.size-full.wp-image-115091
+||web.facebook.com/v2.10/plugins/like.php$subdocument
+kumanovskimuabeti.mk###frontpage-area_a > .hgrid
+
+! 2021-11-08 https://lider.mk
+lider.mk##.lh-2.l-1.dojava.card
+
+! 2021-11-08 https://zoom.mk
+zoom.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.tdi_7_558.td_block_related_posts.td_block_wrap
+
+! 2021-11-08 https://meta.mk
+meta.mk##.td-front-end-display-block.td-more-articles-box
+meta.mk##.widget_media_image.widget.td_block_template_1
+meta.mk##.td-post-sharing-top
+
+! 2021-11-08 https://www.taratur.com
+www.taratur.com##.nav-logo-out
+www.taratur.com##.post-wrap-out1 > .relative
+www.taratur.com##.social-sharing-bot
+www.taratur.com##.social-sharing-top
+www.taratur.com###body-main-wrap > .relative.left
+www.taratur.com###post-header > .relative.left
+
+! 2021-11-08 https://civilmedia.mk
+civilmedia.mk##.full.jeg_header
+civilmedia.mk###jeg_sidecontent
+civilmedia.mk##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
+civilmedia.mk##.vc_custom_heading
+civilmedia.mk##.jeg_sidebar.jeg_sticky_sidebar.vc_col-sm-4.vc_column_container.jeg_column.wpb_column
+civilmedia.mk##.clearfix.jeg_footer_primary
+civilmedia.mk##.jeg_share_top_container
+
+! 2021-11-08 https://www.novamakedonija.com.mk
+www.novamakedonija.com.mk##.td_block_template_16.td-pb-border-top.td_with_ajax_pagination.tdi_58_4a8.td_block_related_posts.td_block_wrap
+www.novamakedonija.com.mk##p:nth-of-type(4)
+www.novamakedonija.com.mk##.comments
+www.novamakedonija.com.mk##.td-ss-main-content > div.clearfix
+
+! 2021-11-08 https://zoom.mk
+zoom.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.tdi_7_111.td_block_related_posts.td_block_wrap
+
+! 2021-11-08 https://4news.mk
+4news.mk##.td-header-template-wrap
+4news.mk##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_98_818.vc_column
+4news.mk##.td_block_template_1.td-pb-border-top.tdi_91_608.tdb_single_post_share.td_block_wrap
+4news.mk##.td_separator_center.td_separator_solid.tdi_96_0f8.vc_separator.td_block_wrap.td_block_separator.wpb_wrapper
+4news.mk##.tdc-footer-wrap
+4news.mk###tdi_82_ea6
+
+! 2021-11-08 https://telma.com.mk
+telma.com.mk##.style-1.clearfix.penci-topbar
+telma.com.mk##.site-header-wrapper
+
+! 2021-11-08 https://kanal5.com.mk
+kanal5.com.mk##.category.latest > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk##footer
+kanal5.com.mk##.paging
+
+! 2021-11-08 https://republika.mk
+republika.mk##p:nth-of-type(3)
+republika.mk##.align-items-center.row.mb-3.meta
+
+! 2021-11-08 https://mms.mk
+mms.mk##.penci-trans-nav.site-header-wrapper
+mms.mk##.style-1.clearfix.penci-topbar
+mms.mk##article.penci-post-item.hentry.penci-grid-item.penci_post_thumb > .penci-gradient.penci-lazy.penci-image-holder
+mms.mk###penci_custom_html-5
+mms.mk##.penci_custom_html-8.widget.awac.widget_text
+mms.mk##.site-footer
+
+! 2021-11-08 https://plusinfo.mk
+plusinfo.mk##.no-bg-box-model.ptylvwj-clearfix.ptylvwj-column-1.ptylvwj-align-center.ptylvwj-loc-post_before_author_box.ptylvwj-show-phone.ptylvwj-show-tablet-landscape.ptylvwj-show-tablet-portrait.ptylvwj-show-desktop.ptylvwj-pubadban.ptylvwj-post-before-author.ptylvwj
+plusinfo.mk##.style-5.clearfix.bottom-share.single-post-share.post-share
+
+! 2021-11-08 https://porta.mk
+porta.mk###mvp-main-nav-top
+porta.mk##.theiaStickySidebar.relative.left
+porta.mk###adm-id-1474
+porta.mk##.mvp-cont-read-wrap
+porta.mk##.relative.left.mvp-post-soc-list
+porta.mk###mvp-foot-top
+porta.mk###mvp-foot-bot
+
+! 2021-11-08 https://www.biznisvesti.mk
+www.biznisvesti.mk###pozad
+www.biznisvesti.mk###theme-footer
+www.biznisvesti.mk##.footer-bottom
+
+! 2021-11-08 https://centar.mk
+centar.mk##.penci-entry-footer
+centar.mk##.widget-area-1.widget-area
+centar.mk##.penci-vc-column-3.penci-link-filter-hidden.penci-imgtype-landscape.style-title-center.style-title-4.penci-grid_5.penci-block_grid.penci-block-vc
+
+! 2021-11-08 https://libertas.mk
+libertas.mk###tie-block_1374 > .container-wrapper
+
+! 2021-11-08 https://www.radiomof.mk
+www.radiomof.mk###main-head > .wrap
+www.radiomof.mk##.top-bar
+www.radiomof.mk##.sidebar.col-4
+www.radiomof.mk##.sharify-container
+www.radiomof.mk##.main-footer
+www.radiomof.mk##.col-8.flexslider.frame.slider
+www.radiomof.mk##.col-4.blocks
+www.radiomof.mk##.owl-theme.owl-carousel-logo.owl-carousel
+www.radiomof.mk##.main-content.col-8 > .related-posts
+
+! 2021-11-08 https://kumanovskimuabeti.mk
+kumanovskimuabeti.mk##[src^="https://www.facebook.com/v2.10/plugins/like.php?app_id=1836664523310599&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df51d3402835318%26domain%3Dkumanovskimuabeti.mk%26is_canvas%3Dfalse%26origin%3Dhttps%253A"]
+kumanovskimuabeti.mk##div.fb_iframe_widget.fb-like > span
+kumanovskimuabeti.mk##.addtoany_content_top.addtoany_content.addtoany_share_save_container
+
+! 2021-11-08 https://plusinfo.mk
+plusinfo.mk##.style-4.clearfix.top-share.single-post-share.post-share
+plusinfo.mk##.bs-irp-thumbnail-1.left.bs-irp
+plusinfo.mk##.style-9.clearfix.post-tags.entry-terms
+plusinfo.mk##.clearfix.next-prev-post
+
+! 2021-11-08 https://sdk.mk
+sdk.mk##.post-ads-bottom
+sdk.mk##.post-footer > .post-share-buttons.post-section
+sdk.mk##div.post-section:nth-of-type(5)
+sdk.mk##.post-section.post-labels
+
+! 2021-11-08 https://skopskoeho.mk
+skopskoeho.mk##.td_block_template_8.td-pb-border-top.td_with_ajax_pagination.td_uid_4_6188f459cb9c0_rand.td_block_related_posts.td_block_wrap
+
+! 2021-11-08 https://pressingtv.mk
+pressingtv.mk##.position-relative.align-items-center.d-flex.w-100.main-menu-wrapper
+pressingtv.mk##.align-items-center.row.meta
+pressingtv.mk##.ml-xl-5.mt-lg-0.mt-5.col.sidebar
+pressingtv.mk##.bg-black.sticky-header.f-main
+pressingtv.mk##.menu-divider
+pressingtv.mk###footer
+pressingtv.mk##.col-md-12.col-lg-8.offset-xl-1.col-xl-7 > p
+pressingtv.mk##.f-main.c-meta.l-black.f-title.clearfix.post-tags
+pressingtv.mk##.clearfix.post-pagination
+pressingtv.mk###ssba-classic-2 > div
+pressingtv.mk##.mt-2
+
+! 2021-11-08 https://makpress.mk
+makpress.mk##.banner-outer.col-sm-16.col-md-16.col-lg-16
+
+! 2021-11-08 https://www.kafepauza.mk
+www.kafepauza.mk##.body-wrapper
+www.kafepauza.mk##.boxed-style.footer-wrapper
+www.kafepauza.mk##.comment-respond
+www.kafepauza.mk##.gdl-related-post > .row
+www.kafepauza.mk##.about-author-wrapper
+www.kafepauza.mk##.yellow.message-box-wrapper
+www.kafepauza.mk##.adjacent-post
+www.kafepauza.mk##.gdl-related-post
+www.kafepauza.mk##.sbi_small.sbi_width_resp.sbi_col_5.sbi
+www.kafepauza.mk##.gdl-item-border.blog-info-wrapper
+www.kafepauza.mk##.print-no.essb_width_flex.essb_1697807473.essb_template_metro-retina.essb_share.essb_displayed_float.essb_counters.essb_links
+www.kafepauza.mk###text-103 > .textwidget
+www.kafepauza.mk###text-103 > .custom-sidebar-title-wrapper
+
+! 2021-11-08 https://vistina.com.mk
+vistina.com.mk##.single-featured-news.section
+vistina.com.mk##.animate.navbar-fixed-top.navbar
+vistina.com.mk##.spacer
+vistina.com.mk##.col-sticky.col-lg-2
+vistina.com.mk###lwdgt-8567
+vistina.com.mk##.section-promotor.section
+vistina.com.mk##.section-latest-news.section
+vistina.com.mk##.footer
+vistina.com.mk##.articles
+vistina.com.mk##.t-tabs.tabs.section-feel-good.section
+vistina.com.mk##.section-top-vesti.section
+vistina.com.mk##.section-vistagram.section
+vistina.com.mk##.section-radio-mileva.section
+
+! 2021-11-08 https://www.novamakedonija.com.mk
+www.novamakedonija.com.mk##.td-related-row
+www.novamakedonija.com.mk##.td_block_template_16.td-pb-border-top.td_with_ajax_pagination.tdi_58_150.td_block_related_posts.td_block_wrap
+
+! 2021-11-08 https://denesen.mk
+denesen.mk##.bg-1.sticky-header.f-text
+denesen.mk##.menu-divider
+denesen.mk##.align-items-center.row.meta
+denesen.mk##.linker-ads
+denesen.mk##.clearfix.post-pagination
+
+! 2021-11-08 https://pari.com.mk
+pari.com.mk##.td-header-template-wrap
+pari.com.mk##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_1553_f20.vc_column
+pari.com.mk##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_1540_61f.vc_row_inner
+pari.com.mk##.td-footer-template-wrap
+pari.com.mk##.td_block_template_1.social-widget-home.td-pb-border-top.td-social-boxed.td-social-style5.tdi_1722_d99.td_block_social_counter.td_block_wrap > .td-social-list
+
+! 2021-11-08 https://kurir.mk
+kurir.mk##.clock_bg
+kurir.mk##.najnovi-vesti-header
+
+! 2021-11-08 https://time.mk
+!time.mk###twitter_widget > [href] > .kategorija_naslov
+
+! 2021-11-08 https://alsat.mk
+alsat.mk###lwdgt-6657
+alsat.mk##.post-components
+alsat.mk###tie-block_799 > .container-wrapper
+
+! 2021-11-08 https://skopskoeho.mk
+skopskoeho.mk##.td-block-title.td-related-title
+
+! 2021-11-08 https://netpress.com.mk
+netpress.com.mk##.td_block_template_11.td_uid_4_6188fbe8834e6_rand.td-a-rec-id-content_bottom.td-a-rec
+netpress.com.mk##.td_block_template_11.td-pb-border-top.td_with_ajax_pagination.td_uid_5_6188fbe8853b9_rand.td_block_related_posts.td_block_wrap
+netpress.com.mk###post-668810 > footer
+
+! 2021-11-08 https://www.slobodenpecat.mk
+www.slobodenpecat.mk##.post-meta
+!www.slobodenpecat.mk###section-category-50 > .flex-column-sm.flex-row-lg.home-category-section > div > .flex-column-sm.col-span8.home-category-loop > .image-post-sm.home-category-post > .hidden-sm.social-share-top
+!www.slobodenpecat.mk##.home-recommend-title
+www.slobodenpecat.mk##.recommend-share.social-share-top
+
+! 2021-11-08 https://www.ohridnews.com
+www.ohridnews.com###footer
+www.ohridnews.com##.related-posts.after-post-sidebar
+www.ohridnews.com##.post-disclaimer
+www.ohridnews.com##div.post-share:nth-of-type(5)
+www.ohridnews.com###cat-main
+www.ohridnews.com##.part-soopstenija.part
+
+! 2021-11-08 https://telma.com.mk
+telma.com.mk##.penci-sidebar-widgets.penci-sticky-sidebar.widget-area-1.widget-area
+telma.com.mk##.penci-row.penci-image-box__cotnent
+telma.com.mk###penci-vc_row-wapper__79452912
+telma.com.mk###penci-vc_row-wapper__52142901
+telma.com.mk##.penci-hidden-mobile.penci-hidden-tablet.no-class_layout.widget-area
+
+! 2021-11-08 https://www.ohridnews.com
+www.ohridnews.com##.part-80.part-zivot.part
+www.ohridnews.com##.part-80.part-sport.part
+
+! 2021-11-08 https://www.slobodnaevropa.mk
+www.slobodnaevropa.mk##.pos-rel.article-share.pull-left.col-md-2.col-xs-12
+www.slobodnaevropa.mk##div.overlap-md.content-floated:nth-of-type(2)
+www.slobodnaevropa.mk##.c-author--hlight.c-author
+
+! 2021-11-08 https://maskimagazin.faktor.mk
+maskimagazin.faktor.mk###fblikepop
+maskimagazin.faktor.mk##.d-lg-block.d-none.logo
+maskimagazin.faktor.mk##.sidebar--right.sidebar.col-lg-4
+maskimagazin.faktor.mk##.footer__bottom
+maskimagazin.faktor.mk##.related-posts
+maskimagazin.faktor.mk##.entry > .socialmedia-zm
+maskimagazin.faktor.mk##.entry__article > .socialmedia-zm
+maskimagazin.faktor.mk###fblikebg
+maskimagazin.faktor.mk##.d-lg-flex.d-none.nav__socials.socials.nav__right-item
+
+! 2021-11-08 https://skopje1.mk
+skopje1.mk###head-main-wrap
+skopje1.mk##.post-wrap-out1 > .relative
+skopje1.mk##.code-block-1.code-block
+skopje1.mk###body-main-wrap > .relative.left
+
+! 2021-11-08 https://tocka.com.mk
+tocka.com.mk##.container-750 > div > div
+tocka.com.mk##.socijalni-mrezi
+tocka.com.mk##.clearfix.navigacija
+
+! 2021-11-08 https://www.kafepauza.mk
+www.kafepauza.mk##.print-no.essb_links_center.essb_flex_25_.essb_network_align_center.essb_width_flex.essb_2093670351.essb_template_metro-retina.essb_share.essb_displayed_float.essb_counters.essb_links
+
+! 2021-11-08 https://sdk.mk
+sdk.mk##.header-post-sharing-buttons
+
+! 2021-11-08 https://fokus.mk
+fokus.mk##.fokus-in-articlep2
+
+! 2021-11-08 https://alfa.mk
+alfa.mk###icon_wrapper
+
+! 2021-11-08 https://emagazin.mk
+emagazin.mk##.header--s2.header__top
+emagazin.mk##.penci-social-share-footer.penci-social-buttons
+emagazin.mk##.penci-sidebar-widgets.penci-sticky-sidebar.widget-area-1.widget-area
+emagazin.mk##.site-footer
+emagazin.mk##.topbar_date.topbar_item
+emagazin.mk##.penci-pb-row.vc_row-fluid.vc_row_81696655.wpb_row.vc_row
+
+! 2021-11-08 https://mms.mk
+mms.mk##.header--s9.header--s2.header__top
+mms.mk##.widget-area-1.widget-area
+
+! 2021-11-08 https://www.fakulteti.mk
+www.fakulteti.mk##.menu-top-container
+www.fakulteti.mk##.menu-top
+www.fakulteti.mk##.social-media-holder-share
+www.fakulteti.mk##.clear.tags-holder
+www.fakulteti.mk##footer.clear
+www.fakulteti.mk##.clear.job-offers
+
+! 2021-11-08 https://nmd.mk
+nmd.mk##.tdc-header-wrap
+nmd.mk##.td-main-sidebar.td-pb-span4
+nmd.mk##p:nth-of-type(3)
+nmd.mk##.tdc-footer-wrap
+
+! 2021-11-08 https://sportski.mk
+||sportski.mk/wp-content/uploads/2021/11/Sportski_1600_900.png$image
+
+! 2021-11-08 https://sportmanija.mk
+sportmanija.mk##.no-header-img.topbar-transparent.header-ads-mobile.top_menu.one-mobile-menu.top-menu-mobile-on
+sportmanija.mk##div.group.hu-pad > .themeform
+sportmanija.mk###footer
+
+! 2021-11-08 https://sportclub.mk
+sportclub.mk##.site-header
+sportclub.mk##div.wpsr-row-1.wpsr-buttons.wp-socializer:nth-of-type(4)
+
+! 2021-11-08 https://makpress.mk
+makpress.mk##.hidden-xs.hot-news.col-sm-16
+
+! 2021-11-09 https://nmd.mk
+nmd.mk##p:nth-of-type(2)
+nmd.mk##p:nth-of-type(4)
+nmd.mk##p:nth-of-type(6)
+nmd.mk##p:nth-of-type(8)
+nmd.mk##p:nth-of-type(10)
+nmd.mk##p:nth-of-type(12)
+nmd.mk##p:nth-of-type(14)
+nmd.mk##p:nth-of-type(16)
+nmd.mk##p:nth-of-type(18)
+nmd.mk##p:nth-of-type(20)
+nmd.mk##footer
+nmd.mk##.td_block_template_13.td-pb-border-top.td_with_ajax_pagination.tdi_8.td_block_related_posts.td_block_wrap
+nmd.mk##.tdi_58.vc_widget_sidebar.td_block_wrap.wpb_wrapper
+
+! 2021-11-09 https://makpress.mk
+makpress.mk##.col-sm-16.sec-topic > div.row > .col-md-4
+makpress.mk##.fb_iframe_widget.fb-share-button.col-md-2
+makpress.mk##.author
+makpress.mk##.pull-left.main-title-outer
+
+! 2021-11-09 https://nmd.mk
+nmd.mk##p:nth-of-type(9)
+nmd.mk##p:nth-of-type(15)
+nmd.mk##p:nth-of-type(22)
+nmd.mk##p:nth-of-type(25)
+nmd.mk##p:nth-of-type(27)
+nmd.mk##p:nth-of-type(29)
+
+! 2021-11-09 https://www.vecer.press
+||www.vecer.press/wp-content/uploads/2021/11/TFT-1.jpg$image
+www.vecer.press##.td-post-header-holder
+www.vecer.press##.td-image-gradient-style8.td-post-header
+||www.vecer.press/wp-content/uploads/2021/11/TFT-1.jpg$image
+www.vecer.press##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_2_6189dfb186d11_rand.td_block_related_posts.td_block_wrap
+
+! 2021-11-09 https://nmd.mk
+nmd.mk##p:nth-of-type(21)
+nmd.mk##p:nth-of-type(24)
+nmd.mk##p:nth-of-type(28)
+nmd.mk##p:nth-of-type(31)
+
+! 2021-11-09 https://porta.mk
+porta.mk###mvp-post-head > .relative.left.mvp-post-cat
+porta.mk###mvp-content-bot
+porta.mk##.relative.left.mvp-post-add-head > .relative.left.mvp-post-cat
+
+! 2021-11-09 https://www.gol.mk
+www.gol.mk##.clearfix.view-mode-full.node-promoted.node-article.node.node-1379962 > header
+www.gol.mk##.clearfix.view-mode-full.node-promoted.node-article.node.node-1379962 > .field-label-hidden.field-type-entityreference.field-name-field-player-reference.field > .field-items > .even.field-item > ul
+
+! 2021-11-09 https://zenskimagazin.mk
+zenskimagazin.mk##.entry__article > .socialmedia-zm
+
+! 2021-11-09 https://www.ohridnews.com
+www.ohridnews.com##p:nth-of-type(7)
+www.ohridnews.com##div.post-share:nth-of-type(3)
+
+! 2021-11-09 https://hashtag.mk
+hashtag.mk###fblikepop
+||hashtag.mk/assets/hashtag/images/bg-01.png$image
+||hashtag.mk/assets/hashtag/images/bg-01.png$image
+||hashtag.mk/assets/hashtag/images/bg-01.png$image
+||hashtag.mk/assets/hashtag/images/bg-01.png$image
+hashtag.mk##.tg-header1.tg-haslayout.tg-header-versionthree.tg-header
+hashtag.mk##.col-sm-4
+hashtag.mk##div.socialmedia-hashtag:nth-of-type(2)
+hashtag.mk##.tg-description > .tg-haslayout.tg-tags-social
+hashtag.mk##div.socialmedia-hashtag:nth-of-type(4)
+hashtag.mk##p:nth-of-type(12)
+hashtag.mk##.tg-whatshot.tg-haslayout
+hashtag.mk##.tg-haslayout.tg-footer
+hashtag.mk###tg-content-upper > .tg-haslayout.tg-tags-social
+hashtag.mk###fblikebg
+hashtag.mk##.tg-description > div
+hashtag.mk##.tg-latest-technology.tg-haslayout > .tg-section-heading
+hashtag.mk###tg-wrapper > div.container
+hashtag.mk##.tg-gallery.tg-haslayout > .row > .col-sm-12
+hashtag.mk##p:nth-of-type(11)
+
+! 2021-11-09 https://www.vecer.press
+www.vecer.press##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_2_6189fc5083ff1_rand.td_block_related_posts.td_block_wrap
+www.vecer.press##.td-pb-span6.tdc-column.vc_column_container.wpb_column.td_uid_34_6189fbed33f25_rand.vc_column > .wpb_wrapper
+www.vecer.press##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.td_uid_52_6189fbf1db32a_rand.vc_column
+www.vecer.press##.td-pb-span4.tdc-column.vc_column_container.wpb_column.pocetna-najgore.td_uid_15_6189fbeb7c672_rand.vc_column
+www.vecer.press##.td_block_template_1.pocetna-slider.td-pb-border-top.td_uid_12_6189fbeb6c7ae_rand.td_block_trending_now.td_block_wrap
+
+! 2021-11-09 https://www.ohridnews.com
+www.ohridnews.com##.post-cats-holder
+
+! 2021-11-09 https://skopje1.mk
+skopje1.mk##.relative.left.post-info-img
+skopje1.mk##.post-tags
+skopje1.mk##.relative.left.post-info-name
+
+! 2021-11-09 https://denesen.mk
+denesen.mk##.text-uppercase.l-1.article-category
+
+! 2021-11-09 https://faktor.mk
+faktor.mk##h1
+faktor.mk##div.widget:nth-of-type(6)
+
+! 2021-11-09 https://plusinfo.mk
+plusinfo.mk##.post-related > .sh-s3.sh-t1.section-heading
+
+! 2021-11-09 https://kanal5.com.mk
+kanal5.com.mk###\35 02333 > .content-wrapper > .columns-wrapper > .big-column > .article-content > aside
+kanal5.com.mk###\35 02333 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02333 > .content-wrapper > .columns-wrapper > .big-column > .article-category
+kanal5.com.mk###\35 02334 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02331 > .content-wrapper > .columns-wrapper > .small-column
+kanal5.com.mk###\35 02331 > .content-wrapper > .columns-wrapper > .big-column > .article-content > aside
+kanal5.com.mk###\35 02334 > .content-wrapper > .columns-wrapper > .big-column > .article-content > aside
+
+! 2021-11-09 https://www.24.mk
+www.24.mk##.comment-section > .title-style01.comment-title
+www.24.mk##.col-md-8 > .container
+
+! 2021-11-09 https://mk.voanews.com
+mk.voanews.com##.hdr-nav-frag
+mk.voanews.com##.pos-rel.article-share.pull-left.col-md-2.col-xs-12
+mk.voanews.com##.separator.col-lg-12
+mk.voanews.com##.comments--fb.comments > .section-head
+||www.facebook.com/plugins/comments.php$subdocument
+mk.voanews.com##.comments--fb.comments
+mk.voanews.com##.foot
+
+! 2021-11-09 https://republika.mk
+republika.mk##p:nth-of-type(4)
+
+! 2021-11-09 https://puls24.mk
+puls24.mk###lwdgt-4115
+puls24.mk###SC_TBlock_721328
+puls24.mk###wpzoom-feature-posts-4
+puls24.mk##.widget_mashsb_mostshared_posts_widget.widget
+
+! 2021-11-09 https://denesen.mk
+denesen.mk##.pb-5.pt-5.mb-5.section.section-featured
+
+! 2021-11-09 https://tera.mk
+tera.mk##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+tera.mk##.secondary.widget-area
+tera.mk##.elementor-section-height-default.elementor-section-boxed.elementor-element-86f662c.elementor-element.elementor-top-section.elementor-section
+tera.mk##.elementor-element-1c7f926.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+tera.mk##.elementor-element-e1421f8.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+tera.mk##.elementor-element-c908979.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+tera.mk##.elementor-section-height-default.elementor-section-boxed.elementor-element-7e72da1.elementor-element.elementor-top-section.elementor-section
+tera.mk##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-top.elementor-element-4e1586da.elementor-element.elementor-top-section.elementor-section
+tera.mk##.ast-footer-overlay
+tera.mk##.heateor_sss_horizontal_sharing.heateor_sss_sharing_container
+tera.mk##.post-navigation.navigation
+
+! 2021-11-09 https://www.kumanovonews.mk
+www.kumanovonews.mk##header
+www.kumanovonews.mk##p:nth-of-type(2)
+www.kumanovonews.mk##p:nth-of-type(3)
+www.kumanovonews.mk##footer
+www.kumanovonews.mk##.fb_iframe_widget.fb-like
+www.kumanovonews.mk##div.frontPageSection > .w300
+www.kumanovonews.mk###horoskop
+
+! 2021-11-09 https://alsat.mk
+alsat.mk###lwdgt-1545
+
+! 2021-11-09 https://centar.mk
+centar.mk##.penci-title-.penci-entry-header.entry-header > .penci-social-share-footer.penci-social-buttons
+centar.mk##p:nth-of-type(6)
+
+! 2021-11-09 https://prizma.mk
+prizma.mk##.main-menu-border-wrap > .row
+prizma.mk###header-container
+prizma.mk##.main
+prizma.mk##.heateor_sss_horizontal_sharing.heateor_sss_sharing_container
+
+! 2021-11-09 https://akademik.mk
+akademik.mk##.cmplz-categories-no.cc-color-override--748264932.cc-center.cmplz-animation-slide.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window.cmplz-tcf-banner-hidden
+akademik.mk##.sidebar
+akademik.mk##.header-top
+akademik.mk##.social-share
+akademik.mk##.post-tags
+akademik.mk##.desktop_zone_3.widget_text > .custom-html-widget.textwidget
+akademik.mk##.footer-copyright-social
+akademik.mk##.right-wrapper
+
+! 2021-11-09 https://gostivarpress.mk
+gostivarpress.mk###mvp-main-nav-top
+gostivarpress.mk##.relative.left.mvp-author-info-wrap
+gostivarpress.mk###mvp-foot-top
+gostivarpress.mk##.code-block-2.code-block
+gostivarpress.mk##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+gostivarpress.mk##.mvp-post-tags
+gostivarpress.mk###mvp-post-more-wrap
+gostivarpress.mk##.widget_super_rss_reader.mvp-side-widget
+gostivarpress.mk###mvp-foot-bot
+
+! 2021-11-09 https://kumanovskimuabeti.mk
+kumanovskimuabeti.mk###fitvid700817
+kumanovskimuabeti.mk##.code-block-16.code-block
+kumanovskimuabeti.mk##.fluid-width-video-wrapper
+
+! 2021-11-09 https://sitel.com.mk
+sitel.com.mk##.social-buttons-wrapper
+sitel.com.mk##.inner
+
+! 2021-11-09 https://www.dw.com
+www.dw.com###navHead
+www.dw.com##.initialised
+www.dw.com###sharing-bar
+www.dw.com##.cookie--visible.cookie
+www.dw.com###footerBody
+www.dw.com##p:nth-of-type(22)
+www.dw.com##p:nth-of-type(20)
+www.dw.com##p:nth-of-type(21)
+www.dw.com##p:nth-of-type(19)
+www.dw.com##.col3 > div.group > .smallList > li
+www.dw.com##.meta
+
+! 2021-11-09 https://netpress.com.mk
+netpress.com.mk##.td_block_template_11.td_uid_4_6189b2f2e9ae5_rand.td-a-rec-id-content_bottom.td-a-rec
+netpress.com.mk###post-669021 > footer
+netpress.com.mk##.td_block_template_11.td-pb-border-top.td_with_ajax_pagination.td_uid_5_6189b2f2eb947_rand.td_block_related_posts.td_block_wrap
+netpress.com.mk##.td-crumb-container
+
+! 2021-11-09 https://www.brif.mk
+www.brif.mk##.columns.twelve.row.site-header
+www.brif.mk###text-91 > .textwidget
+www.brif.mk##table
+www.brif.mk##.columns.four.widget-area
+www.brif.mk###menu-header-menu
+www.brif.mk###head-container
+www.brif.mk###text-64
+www.brif.mk###text-33 > .textwidget
+www.brif.mk##.row.comments-wrap
+www.brif.mk##.leaf-more-articles
+www.brif.mk##.site-footer
+www.brif.mk##.entry-content > .bottomcontainerBox
+www.brif.mk##.breadcrumbs
+
+! 2021-11-09 https://meta.mk
+meta.mk##.textwidget > div
+
+! 2021-11-09 https://civilmedia.mk
+civilmedia.mk##h6
+civilmedia.mk##[src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-button.png"]
+civilmedia.mk##.separator_bg
+civilmedia.mk##.active.owl-item > .format-standard.jeg_slide_item
+civilmedia.mk##.owl-drag.owl-loaded.owl-carousel.jeg_col_2o3.jeg_slider.jeg_slider_type_5 > .owl-stage-outer > .owl-stage
+
+! 2021-11-09 https://pressingtv.mk
+pressingtv.mk##.row.post-share > .col-lg-6
+pressingtv.mk##.addtoany_list.a2a_kit_size_32.a2a_kit
+pressingtv.mk##.row.post-share > .col
+
+! 2021-11-09 https://nezavisen.mk
+nezavisen.mk##.td-post-sharing-top
+
+! 2021-11-09 https://skopskoeho.mk
+skopskoeho.mk##.td-crumb-container
+skopskoeho.mk##aside.widget_media_image.widget.td_block_template_8:nth-of-type(7)
+skopskoeho.mk##.td_uid_21_618a0a0786dc7_rand.vc_widget_sidebar.td_block_wrap.wpb_wrapper
+
+! 2021-11-09 https://bitolanews.mk
+bitolanews.mk##.site-header
+bitolanews.mk##.sidebar-right.sidebar
+bitolanews.mk###sidebar-left > .inner
+bitolanews.mk##.shareaholic-badge-counter.shareaholic-.shr-no-print.shareaholic-ui.shareaholic-share-buttons-container
+bitolanews.mk##.post-meta
+bitolanews.mk##div.category-container > ul
+bitolanews.mk##.site-footer
+bitolanews.mk##.active-1.widget-area-above-main.widget-area
+bitolanews.mk##.active-1.widget-area-after-first-post.widget-area
+
+! 2021-11-09 https://press24.mk
+press24.mk##.field-label-hidden.field-type-text-long.field-name-field-nad-naslov.field
+press24.mk##.field-label-hidden.field-type-text-long.field-name-field-like.field
+press24.mk##.content > .fb-comments
+press24.mk##.clearfix.share-bar
+press24.mk##.field-label-hidden.field-type-text.field-name-field-koment.field
+press24.mk##div.row:nth-of-type(3)
+press24.mk###block-block-60 > .content
+press24.mk###block-block-56
+
+! 2021-11-09 https://mk.rbth.com
+mk.rbth.com##.header
+mk.rbth.com##.social-container_top.social-container > .sharing
+mk.rbth.com##.cookies-banner-shown.js-cookies-banner.cookies__banner
+mk.rbth.com##.footer__button
+mk.rbth.com###dsq-app4616
+mk.rbth.com##.article__comments_short.article__comments
+mk.rbth.com##.article__wrapper_short.article__wrapper > .follows-channel
+mk.rbth.com##.sharing
+mk.rbth.com##.article__tags-trends_short.article__tags-trends
+mk.rbth.com##.article__text-copyright
+mk.rbth.com##.article1 > .article__wrapper > .infinity-follow-fb
+mk.rbth.com##.article1 > .article__wrapper > .infinity-sharing
+mk.rbth.com##.article1 > .article__wrapper > .infinity-tags
+mk.rbth.com##.article > .article__wrapper > .infinity-follow-fb > .follows-channel
+
+! 2021-11-09 https://360stepeni.mk
+360stepeni.mk##.hero__home.hero > .wrap > .social-media-menu-wrapper
+360stepeni.mk##.hero__home.hero
+360stepeni.mk##.instagram-feed.container-fluid
+360stepeni.mk##.category__slider-section
+
+! 2021-11-09 https://www.novamakedonija.com.mk
+www.novamakedonija.com.mk##.td-block-title.td-related-title
+
+! 2021-11-09 https://4news.mk
+4news.mk##.td_block_template_1.td-pb-border-top.tdi_91_ea5.tdb_single_post_share.td_block_wrap
+4news.mk##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_98_e88.vc_column > .wpb_wrapper
+
+! 2021-11-09 https://www.ubavinaizdravje.mk
+www.ubavinaizdravje.mk###lwdgt-4491
+www.ubavinaizdravje.mk##.style-9.clearfix.top-share.single-post-share.post-share
+www.ubavinaizdravje.mk###lwdgt-8369
+www.ubavinaizdravje.mk##.wid-17.lwdgt-container
+
+! 2021-11-09 https://www.stylist.mk
+www.stylist.mk###header
+www.stylist.mk###sidebar
+www.stylist.mk##.post-share
+www.stylist.mk##.post-related
+www.stylist.mk###footer
+www.stylist.mk##.post-comments
+www.stylist.mk##strong:nth-of-type(2)
+www.stylist.mk##.post-meta
+www.stylist.mk###top_social
+
+! 2021-11-09 https://drmitov.mk
+||www.facebook.com/v12.0/plugins/customerchat.php$subdocument
+drmitov.mk##.elementor-background-overlay
+drmitov.mk##.elementor-section-height-default.elementor-section-boxed.elementor-element-2248cd7a.elementor-element.elementor-top-section.elementor-section
+drmitov.mk##.elementor-location-header.elementor-3819.elementor
+drmitov.mk##.elementor-element-2f4129f2.elementor-element.elementor-top-column.elementor-col-33.elementor-column
+drmitov.mk##.mc-layout__modalContent > [src="about:blank"]
+drmitov.mk##.mc-layout__modalContent
+drmitov.mk##.mc-modal
+drmitov.mk##.mc-modal-bg
+drmitov.mk##.elementor-widget-author-box.elementor-widget.elementor-author-box--biography-yes.elementor-author-box--name-yes.elementor-author-box--avatar-yes.elementor-element-4c09299.elementor-element
+drmitov.mk##.site-footer
+drmitov.mk##.fb_iframe_widget.fb-like.elementor-facebook-widget > span
+drmitov.mk##.elementor-widget-facebook-button.elementor-widget.elementor-element-3aa9a12f.elementor-element > .elementor-widget-container
+
+! 2021-11-09 https://gotvi.mk
+gotvi.mk##.site-header
+gotvi.mk##.adv_side
+gotvi.mk###text-2
+gotvi.mk##.clearfix.post_author
+gotvi.mk##.section-single.site-widgetized-section
+gotvi.mk###wpzoom_instagram_widget-3 > .title
+gotvi.mk##.share
+
+! 2021-11-09 https://panacea.mk
+panacea.mk##.td-header-style-9.td-header-wrap
+panacea.mk##.td-post-sharing-style1.td-ps-notext.td-ps-bg.td-post-sharing
+panacea.mk##.td-post-sharing-bottom
+panacea.mk##.td-footer-template-13.td-container-wrap.td-footer-wrapper
+panacea.mk###icon_wrapper
+
+! 2021-11-09 https://mastilo.mk
+mastilo.mk##.site-header
+mastilo.mk##.section
+mastilo.mk##.twp-related-post-section > .container
+mastilo.mk##.twp-footer-widget-section
+mastilo.mk##.site-footer
+mastilo.mk##.twp-footer-menu-section
+mastilo.mk##.widget_search.widget
+mastilo.mk##.twp-bg-light-gray.twp-banner-section
+
+! 2021-11-09 https://avtoplus.mk
+avtoplus.mk##.clearfix.logo-container.tie-col-md-4
+||avtoplus.mk/wp-content/uploads/2019/01/AP-25-pozadina.jpg$image
+||avtoplus.mk/wp-content/themes/jannah/assets/images/bg-dots.png$image
+avtoplus.mk##.footer-boxed-widget-area.footer-widget-area
+avtoplus.mk##.share-buttons-bottom.share-buttons
+avtoplus.mk###menu-components-wrap > .components
+
+! 2021-11-09 https://www.carclub.mk
+www.carclub.mk##.header_main_wrapper > .row
+www.carclub.mk##.header_top_wrapper > .row
+www.carclub.mk##.header_main_wrapper
+www.carclub.mk##div#sidebar.content_display_col3.columns.four:nth-of-type(2)
+www.carclub.mk##div.scale-.scale-100.swp_other_full_color.swp_individual_full_color.swp_default_full_color.swp_flat_fresh.swp_horizontal_panel.swp_social_panel:nth-of-type(2)
+www.carclub.mk##div.scale-.scale-100.swp_other_full_color.swp_individual_full_color.swp_default_full_color.swp_flat_fresh.swp_horizontal_panel.swp_social_panel:nth-of-type(1)
+www.carclub.mk##.auth
+www.carclub.mk##.footer-columns > .row
+www.carclub.mk###footer-container
+www.carclub.mk##[src="https://www.carclub.mk/m/euroimpex/oct2021/randomizer.php"]
+
+! 2021-11-09 https://hitportal.com.mk
+hitportal.com.mk##.td-header-header.td-header-row
+hitportal.com.mk##.td-top-menu-full
+hitportal.com.mk##.td-ss-main-sidebar
+hitportal.com.mk##.td-category
+hitportal.com.mk##.entry-crumbs
+hitportal.com.mk##.td-pb-padding-side.td-post-sharing-top
+hitportal.com.mk##.td_block_template_1.tdi_35_184.td-a-rec-id-content_top.td-a-rec > [href] > .td-animation-stack-type0-2
+hitportal.com.mk###adm-id-4269
+hitportal.com.mk##.td-pb-padding-side.td-post-sharing-bottom > .td-post-sharing-style1.td-ps-notext.td-ps-bg.td-post-sharing
+hitportal.com.mk##.td_block_template_1.tdi_36_ab5.td-a-rec-id-content_bottom.td-a-rec
+hitportal.com.mk##.td-related-row
+hitportal.com.mk##.td-post-next-prev.td-block-row
+hitportal.com.mk##.td-post-sharing-classic
+hitportal.com.mk##.td-pb-padding-side.td-post-sharing-bottom
+hitportal.com.mk##.td-container.td-footer-container
+hitportal.com.mk##.td-container-border.td-container.td-sub-footer-container
+hitportal.com.mk##.tdi_53_968.vc_widget_sidebar.td_block_wrap.wpb_wrapper
+hitportal.com.mk##.td_block_template_1.tdi_36_9a9.td-a-rec-id-content_bottom.td-a-rec
+hitportal.com.mk##.td_block_template_1.tdi_35_a16.td-a-rec-id-content_top.td-a-rec
+
+! 2021-11-09 https://lady.mk
+lady.mk###header
+lady.mk##.last.span-8
+lady.mk##.fb_iframe_widget.fb-like
+lady.mk##.postmeta
+lady.mk##.clearfix.navigation
+lady.mk###footer
+
+! 2021-11-09 https://antropol.mk
+antropol.mk##.news-bar
+antropol.mk##.ssbp--theme-1.left.ssbp-wrap.ssba.ssba-classic-2 > div
+antropol.mk##.clearfix.footer-socket-wrapper
+antropol.mk##.clearfix.widget_tag_cloud.widget
+antropol.mk##.clearfix.widget_archive.widget
+antropol.mk##[src="https://antropol.mk/wp-content/uploads/2017/04/logo-malo-horizontalno.jpg"]
+antropol.mk##.clearfix.related-posts
+antropol.mk##.related-posts-main-title
+antropol.mk##.next
+antropol.mk##.previous
+antropol.mk##p:nth-of-type(3)
+
+! 2021-11-09 https://ekran.mk
+ekran.mk##.entry > .share-post
+ekran.mk###top-nav > .container > .social-icons
+ekran.mk##.post-navigation
+ekran.mk##.footer-bottom
+ekran.mk###theme-footer
+
+! 2021-11-09 https://gradina.mk
+gradina.mk##.entry > .share-post
+
+! 2021-11-09 https://telefoni.mk
+telefoni.mk##.news > .fb_iframe_widget
+telefoni.mk##.tags
+telefoni.mk###authorname
+telefoni.mk##.content-panel > .fb_iframe_widget
+
+! 2021-11-09 https://moirecepti.mk
+moirecepti.mk###popup-form
+moirecepti.mk###popup-overlay
+moirecepti.mk###popup
+moirecepti.mk##.column-right.column
+moirecepti.mk##div.container:nth-of-type(2)
+moirecepti.mk##.comments
+moirecepti.mk##.similar-posts.row
+moirecepti.mk##.recipe-info.row
+
+! 2021-11-09 https://autofocus.mk
+autofocus.mk##.fl-visible-desktop-medium.fl-col-small.fl-node-5c73b7c422102.fl-col
+autofocus.mk##.fl-node-5de7885e4afae.fl-row-bg-none.fl-row-fixed-width.fl-row > .fl-row-content-wrap
+autofocus.mk##.fl-node-5c7520bcc7053.fl-module-uabb-heading.fl-module > .fl-node-content.fl-module-content
+autofocus.mk##.fl-visible-desktop-medium.fl-node-5c9ccc7b51833.fl-module-rich-text.fl-module
+autofocus.mk##.n2-ss-slider-pane--ready.n2-ow.n2-ss-slider-pane
+autofocus.mk###n2-ss-137 > .n2-ow.n2_ss__touch_element.n2-ss-slider-1 > .n2-ow.n2-ss-slider-2 > .n2-ow.n2-ss-slider-3
+autofocus.mk##.fl-node-5cb34adc84a6e.fl-col-group
+autofocus.mk##.fl-node-5cb34adc832a8.fl-row-bg-color.fl-row-fixed-width.fl-row > .fl-row-content-wrap
+
+! 2021-11-09 https://turbo1.mk
+turbo1.mk##.bottom-header
+turbo1.mk##.top-header
+turbo1.mk###secondaryright > .theiaStickySidebar
+turbo1.mk##.colorful-cat
+turbo1.mk##.post-navigation.navigation
+turbo1.mk##.apss_font_awesome_five.clearfix.apss-theme-1.apss-social-share
+turbo1.mk##.comment-respond
+turbo1.mk##.footer-social
+turbo1.mk##.column-4.bottom-footer
+turbo1.mk##.news-with-grid-layout
+turbo1.mk##.copyright-footer
+turbo1.mk##.news-ticker > .sparkle-wrapper
+
+! 2021-11-09 https://tocka.com.mk
+tocka.com.mk##.text-center.tags
+tocka.com.mk##.list-inline.nav-social-footer
+
+! 2021-11-09 https://365.com.mk
+365.com.mk##.td-header-header.td-header-row
+365.com.mk##.td-header-sp-top-widget
+||static.365.mk/alka-imuno.jpg$image
+365.com.mk##.mashsb-stretched.mashsb-main.mashsb-container
+365.com.mk##.td-pb-padding-side.td-post-sharing-top.td-post-sharing
+365.com.mk##.td-pb-padding-side.td-post-sharing-bottom.td-post-sharing
+365.com.mk##.td-pb-padding-side.td-post-source-tags
+365.com.mk##p:nth-of-type(5)
+365.com.mk##.td-container.td-footer-container
+365.com.mk##.td-container-border.td-container.td-sub-footer-container
+
+! 2021-11-09 https://denar.mk
+denar.mk##.jeg_share_top_container > .clearfix.jeg_share_button
+denar.mk##.jeg_post_tags
+denar.mk##div.vc_empty_space:nth-of-type(13)
+denar.mk##.jeg_custom_meta_wrapper.jeg_post_meta
+
+! 2021-11-09 https://www.porta3.mk
+www.porta3.mk##.header-content
+www.porta3.mk###text-html-widget-12
+www.porta3.mk###text-html-widget-26 > .widget-container
+www.porta3.mk###text-html-widget-26 > .widget-top
+www.porta3.mk##div.share-post:nth-of-type(1)
+www.porta3.mk##.head_menu.top-nav > .container > .icon_flat.social-icons
+www.porta3.mk##footer
+www.porta3.mk##.comment-respond
+www.porta3.mk##div.share-post:nth-of-type(4)
+www.porta3.mk##.post-navigation
+www.porta3.mk###related_posts > .post-listing
+www.porta3.mk##.block-head > h3
+www.porta3.mk##.footer-bottom
+www.porta3.mk##.post-listing.category-porta3.category-ekologija.category-vesti.category-arhitektura.hentry.format-standard.status-publish.type-post.post.post-202519 > .post-meta
+www.porta3.mk###menu-item-102084 > [href="https://www.porta3.mk/klub-na-prijateli/"]
+www.porta3.mk###menu-item-12041 > [href="https://www.porta3.mk/sakate-da-pishuvate-za-porta3/"]
+www.porta3.mk###text-html-widget-7 > .widget-container > div
+www.porta3.mk###text-html-widget-7 > .widget-container
+www.porta3.mk###text-html-widget-7 > .widget-top
+www.porta3.mk###text-html-widget-13 > .widget-container
+www.porta3.mk###text-html-widget-27 > .widget-container
+www.porta3.mk###text-html-widget-27 > .widget-top
+www.porta3.mk###text-html-widget-13 > .widget-top
+www.porta3.mk###facebook-widget-2 > .widget-container
+
+! 2021-11-09 https://bankarstvo.mk
+bankarstvo.mk##[href="https://halkbank.mk/apliciraj-nagradna-igra.nspx"] > .lazyloaded
+bankarstvo.mk###mvp-main-nav-top
+bankarstvo.mk##.kolumni-post-menu > .menu
+bankarstvo.mk##.kolumni-post-menu
+bankarstvo.mk##.relative.left.mvp-post-soc-list
+bankarstvo.mk##p:nth-of-type(4)
+bankarstvo.mk###mvp-content-bot > .relative.left
+bankarstvo.mk##.mvp-cont-read-wrap > .relative.left
+bankarstvo.mk###mvp-foot-top
+bankarstvo.mk###mvp-foot-bot
+bankarstvo.mk###mvp-post-more-wrap
+bankarstvo.mk##.mvp-post-tags
+
+! 2021-11-09 https://emiter.com.mk
+emiter.com.mk##.l-header-wrapper
+emiter.com.mk##.col.l-sidebar.l-region.column.region-sidebar-second.region
+emiter.com.mk##.l-footer-wrapper
+
+! 2021-11-09 https://pari.com.mk
+pari.com.mk##.td_block_template_1.social-widget-home.td-pb-border-top.td-social-boxed.td-social-style5.tdi_1563_4f1.td_block_social_counter.td_block_wrap > .td-social-list
+pari.com.mk##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_1540_d86.vc_row_inner
+pari.com.mk##.td_block_template_1.tag-show.tags-custom.td-pb-border-top.tdi_1538_911.tdb_single_tags.td_block_wrap > .td-fix-index.tdb-block-inner
+
+! 2021-11-09 https://nmd.mk
+nmd.mk##p:nth-of-type(11)
+nmd.mk##p:nth-of-type(13)
+nmd.mk##p:nth-of-type(23)
+
+! 2021-11-09 https://24auto.mk
+24auto.mk##[href="https://www.instagram.com/24auto.mk/"]
+24auto.mk##.padding-right-zero.td-pb-span9 > [href="https://www.facebook.com/24auto.mk/"]
+
+! 2021-11-09 https://fashionel.mk
+fashionel.mk###header
+fashionel.mk###sidebar
+fashionel.mk###article-main > .clearfix
+fashionel.mk###footer
+
+! 2021-11-09 https://www.kafepauza.mk
+www.kafepauza.mk##.print-no.essb_width_flex.essb_1320217571.essb_template_metro-retina.essb_share.essb_displayed_float.essb_counters.essb_links
+
+! 2021-11-09 https://emagazin.mk
+emagazin.mk##p:nth-of-type(8)
+emagazin.mk##.penci-tags-links.tags-links
+emagazin.mk##.penci-post-related
+emagazin.mk##.penci_mobj__body.prev-post-inner
+emagazin.mk##.penci-post-pagination
+emagazin.mk##.penci-phhide-line.penci-phhide-bread.penci-pheader-left.penci-page-header
+emagazin.mk##.attachment-full.penci-lazy.penci-banner-image.penci-image-holder
+emagazin.mk##.penci-vc-column-3.penci-empty-block-title.penci-link-filter-hidden.style-title-left.style-title-1.penci-list-banner.penci-banner-box.penci-block-vc
+
+! 2021-11-09 https://vistina.com.mk
+vistina.com.mk##.article-header-breadcrumbs > .fb_iframe_widget.fb-like
+vistina.com.mk##.article-header-wrap > .article-meta
+vistina.com.mk##.article-footer-banner
+vistina.com.mk###lwdgt-8812
+vistina.com.mk##.copyright-text
+vistina.com.mk##.section-related-news.section > .section-header > .section-title
+vistina.com.mk##.col-lg-push-2.col-lg-9 > .fb_iframe_widget.fb-page
+vistina.com.mk##.article-tags
+vistina.com.mk##p:nth-of-type(14)
+
+! 2021-11-09 https://deca.mk
+deca.mk##.sidebar.widget_text
+deca.mk##.logo-wrapper
+deca.mk##.main-navigation
+deca.mk##.nav-wrapper > .navigation
+deca.mk##p:nth-of-type(13)
+deca.mk##.container > .clearfix > .main > .clearfix.comments-section
+deca.mk##.added > main.clearfix > .main > .clearfix.comments-section
+
+! 2021-11-09 https://pedijatar.mk
+pedijatar.mk##.td-header-sp-logo
+pedijatar.mk##.td-container-wrap.td-logo-mobile-loaded.td-logo-wrap-full.td-banner-wrap-full
+pedijatar.mk##.td-container-wrap.td-header-menu-wrap-full
+pedijatar.mk##.td-ss-main-sidebar
+pedijatar.mk###pedij-645998603 > .adv-link
+pedijatar.mk##.td-post-sharing-style1.td-ps-notext.td-ps-bg.td-post-sharing
+pedijatar.mk##footer
+pedijatar.mk##.td-related-row
+pedijatar.mk##.td-block-title.td-related-title
+pedijatar.mk##.td-footer-template-13.td-container-wrap.td-footer-wrapper
+pedijatar.mk##.td-container-wrap.td-sub-footer-container
+pedijatar.mk##.td-pb-span4.vc_column_container.wpb_column > .vc_column-inner
+pedijatar.mk##.td-pb-span12.vc_column_container.wpb_column > .vc_column-inner
+pedijatar.mk##.td-ss-row.td-pb-row.wpb_row.vc_row
+
+! 2021-11-09 https://inovativnost.mk
+inovativnost.mk##.tdc-header-wrap
+inovativnost.mk##.td-fix-index.tdb-block-inner > .heateor_sss_horizontal_sharing.heateor_sss_sharing_container
+inovativnost.mk##.td_separator_center.td_separator_solid.td_uid_34_6189a1deba9b0_rand.vc_separator.td_block_wrap.td_block_separator.wpb_wrapper
+inovativnost.mk##.td_separator_center.td_separator_solid.td_uid_36_6189a1debac14_rand.vc_separator.td_block_wrap.td_block_separator.wpb_wrapper
+inovativnost.mk##.td-container-wrap.td-sub-footer-container
+inovativnost.mk##.td-fix-index.tdb-block-inner > .the_champ_horizontal_sharing.the_champ_sharing_container
+inovativnost.mk##.tdb-single-related-posts.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_37_6189a1debadd8_rand.tdb_single_related.td_block_wrap
+inovativnost.mk##.tdc-element-style.td-pb-row.wpb_row.td_uid_48_6189a397db212_rand.vc_row
+inovativnost.mk##.td-front-end-display-block.td-more-articles-box
+inovativnost.mk##.td_block_template_1.td-pb-border-top.td_uid_35_6189c5d2cbca5_rand.tdb_single_tags.td_block_wrap > .td-fix-index.tdb-block-inner
+inovativnost.mk##.td_separator_center.td_separator_solid.td_uid_34_6189c5d2cbbac_rand.vc_separator.td_block_wrap.td_block_separator.wpb_wrapper
+
+! 2021-11-09 https://www.avtomagazin.com.mk
+www.avtomagazin.com.mk##.np-logo-section-wrapper > .mt-container
+www.avtomagazin.com.mk###secondary > .theiaStickySidebar
+www.avtomagazin.com.mk##.entry-content > .np-related-section-wrapper
+www.avtomagazin.com.mk###main > .np-related-section-wrapper
+www.avtomagazin.com.mk##.widget-area
+www.avtomagazin.com.mk##.np-clearfix.footer_column_one.footer-widgets-wrapper
+www.avtomagazin.com.mk##.sd-content > ul
+www.avtomagazin.com.mk##.post-navigation.navigation
+www.avtomagazin.com.mk##.np-clearfix.default.bottom-footer
+www.avtomagazin.com.mk##.middle-aside > .theiaStickySidebar
+www.avtomagazin.com.mk##[href="https://www.avtomagazin.com.mk/toyota-aygo-x-klasa-za-sebe-foto-video/"] > .np-slide-thumb
+www.avtomagazin.com.mk##.np-clearfix.np-home-top-section
+www.avtomagazin.com.mk##.default-ticker.np-ticker-wrapper > .mt-container
+www.avtomagazin.com.mk##.bottom-aside > .theiaStickySidebar
+
+! 2021-11-09 https://automedia.mk
+automedia.mk##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-2.g1-hb-row-b.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row
+automedia.mk##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-1.g1-hb-row-a.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row > .g1-row-inner > .g1-dropable.g1-column
+automedia.mk##.author-overview.g1-column
+automedia.mk##.entry-after-content
+automedia.mk##.g1-row-background-media
+automedia.mk##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+automedia.mk##.g1-column-1of3.g1-column.g1-sidebar-padded.g1-sidebar
+automedia.mk##.autom-after-content
+automedia.mk##.g1-row-layout-page.g1-row.g1-footer
+automedia.mk##.g1-column-1of3.g1-column.g1-with-cards.g1-sidebar
+automedia.mk##.code-block-1.code-block
+
+! 2021-11-09 https://24fudbal.mk
+24fudbal.mk##.news-content > .col-sm-12
+24fudbal.mk##.single-news-wrap > .col-sm-12
+24fudbal.mk##.single-news-wrap > div > div
+
+! 2021-11-09 https://sportmanija.mk
+sportmanija.mk##.no-counter.sharrre-container
+sportmanija.mk##.post-tags
+
+! 2021-11-09 https://derbi.mk
+derbi.mk###mvp-main-nav-top
+derbi.mk##.relative.left.mvp-post-soc-list
+derbi.mk###mvp-foot-wrap
+
+! 2021-11-09 https://dribling.mk
+dribling.mk##.bg-1.sticky-header.f-main
+dribling.mk##.menu-divider
+dribling.mk##.align-items-center.row.mb-4.meta
+dribling.mk##.text-right.col
+dribling.mk##.clearfix.post-pagination
+dribling.mk##.tags
+dribling.mk##.section-related-news.section
+dribling.mk###footer
+
+! 2021-11-09 https://ekipa.mk
+ekipa.mk###top_header
+ekipa.mk##.row > .clearfix.col-sm-12
+ekipa.mk##.entry-header > .col-xs-12.post_social_media > .top_post_meta
+ekipa.mk##.the_sidebar.col-sm-3.sidebar_home_fix
+ekipa.mk##.copyright-isue
+ekipa.mk###post-530677 > .col-xs-12.post_social_media
+
+! 2021-11-09 https://sportclub.mk
+sportclub.mk##div.wpsr-row-1.wpsr-buttons.wp-socializer:nth-of-type(3)
+sportclub.mk##.site-footer
+sportclub.mk##.entry-meta
+
+! 2021-11-09 https://sportmedia.mk
+||sportmedia.mk/wp-content/uploads/2021/05/slika-za-kosarka11.jpg$image
+sportmedia.mk##.td-header-background-image.td-header-style-3.td-header-wrap
+sportmedia.mk##.td_block_template_1.td-pb-border-top.tdi_19_021.tdb_single_post_share.td_block_wrap
+sportmedia.mk##.tdc-footer-wrap
+
+! 2021-11-09 https://www.gol.mk
+www.gol.mk##.clearfix.view-mode-full.node-promoted.node-article.node.node-1379993 > header
+www.gol.mk##.field-label-hidden.field-type-entityreference.field-name-field-ref-team.field > .field-items > .even.field-item
+www.gol.mk##.even.field-item > ul
+www.gol.mk##div.field-name-body:nth-of-type(4)
+
+! 2021-11-09 https://sportski.mk
+sportski.mk##.bdaia-ralated-posts
+sportski.mk###wpdevar_comment_2
+
+! 2021-11-09 https://24rakomet.mk
+24rakomet.mk##.td_stretch_content.td-container-wrap.td-header-top-menu-full
+24rakomet.mk##div:nth-of-type(9)
+24rakomet.mk##.td_stretch_content.td-container-wrap.td-sub-footer-container
+
+! 2021-11-09 https://supersport.mk
+||supersport.mk/wp-content/uploads/2021/11/sportski_1920_1080.png$image
+supersport.mk##.td-header-style-5.td-header-wrap
+supersport.mk##.td-post-sharing-top
+supersport.mk##footer
+supersport.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.tdi_4.td_block_related_posts.td_block_wrap
+supersport.mk##.tdc-footer-wrap
+
+! 2021-11-09 https://ipon.mk
+ipon.mk##.td-header-style-6.td-header-wrap
+||ipon.mk/wp-content/uploads/2021/10/thqgme.jpg$image
+ipon.mk##.td_block_template_4.td_uid_6_618a239748f18_rand.td-a-rec-id-sidebar.td-a-rec
+ipon.mk##.td-with-like.td-post-sharing-bottom.td-post-sharing
+ipon.mk##.td-footer-template-4.td-container-wrap.td-footer-wrapper
+ipon.mk##.td-post-prev-post.td-block-span6 > .td-post-next-prev-content
+ipon.mk##.td-post-next-post.td-block-span6 > .td-post-next-prev-content
+ipon.mk###post-93749 > footer
+ipon.mk##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_3_618a239727552_rand.td_block_related_posts.td_block_wrap
+ipon.mk##.td-container-wrap.td-sub-footer-container > .td-container > .td-pb-row
+ipon.mk##.td_block_template_4.td_uid_15_618a23e2d03c6_rand.td-a-rec-id-sidebar.td-a-rec
+
