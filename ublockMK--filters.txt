@@ -1,9 +1,1 @@
-! fb ovoono
-||external.fskp3-1.fna.fbcdn.net/
-||external.fskp1-2.fna.fbcdn.net/
-
-
-||video.fskp3-1.fna.fbcdn.net/v/
-||video.fskp1-2.fna.fbcdn.net/v/
-||media3.giphy.com 
-
+##.itf-market-widget
