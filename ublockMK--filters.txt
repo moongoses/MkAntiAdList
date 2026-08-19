@@ -17,6 +17,8 @@ maktel.mk##.sidebar-main
 ||rdtk.io^
 
 
+||ads.tv21.tv/www/images/*g
+
 !it.forum proizvodi, goren baner forum i sajt, futeri so statistika i meni
 ##.itf-market-widget
 ##.itf-header-ad
